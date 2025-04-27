@@ -216,6 +216,8 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/401338316.m3u8
 #EXTINF:-1 ,Dazn 1
 http://cool365.xyz:900/live/4160189881/DB4ACD54/165068.m3u8
 #EXTINF:-1 ,Dazn 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/165070.m3u8
+#EXTINF:-1 , Sky Sports Austria 1
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401338284.m3u8
 #EXTINF:-1 ,T sports HD(moonplex)
 http://kst.moonplex.net:8080/CH2/index.m3u8
@@ -223,3 +225,31 @@ http://kst.moonplex.net:8080/CH2/index.m3u8
 http://xtv.ooo:8080/213112/213112/167594
 #EXTINF:-1 ,WILLOW HD
 http://filex.tv:8080/live/Multicity/1234/52109.ts
+#EXTINF:-1 ,Prima Sports 1 HD
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338291.m3u8
+#EXTINF:-1 ,Prima Sports 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338290.m3u8
+#EXTINF:-1 ,Prima Sports 3
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338289.m3u8
+#EXTINF:-1 ,Canal plus
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338295.m3u8
+#EXTINF:-1 ,Canal plus
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338294.m3u8
+#EXTINF:-1 ,Canal Premium
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338296.m3u8
+#EXTINF:-1 ,Max Sports 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338299.m3u8
+#EXTINF:-1 ,Max Sports 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338298.m3u8
+#EXTINF:-1 ,Max Sports 3
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338297.m3u8
+#EXTINF:-1 ,V Sports
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338279.m3u8
+#EXTINF:-1 ,Sport tv 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338282.m3u8
+#EXTINF:-1 ,Sport tv 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338281.m3u8
+#EXTINF:-1 ,Arena Sports 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338306.m3u8
+#EXTINF:-1 ,Arena Sports 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338305.m3u8
