@@ -1,547 +1,121 @@
 #EXTM3U
-#EXTINF:-1 ,Sony Sports 1 HD
-http://xtv.ooo:8080/live/T4S00515/820172/167570.ts
-#EXTINF:-1 ,Sony Sports 2 HD
-http://xtv.ooo:8080/live/T4S00515/820172/167571.ts
-#EXTINF:-1 ,Sony Sports 3 HD
-http://xtv.ooo:8080/live/T4S00515/820172/167572.ts
-#EXTINF:-1 ,Sony Sports 4
-http://xtv.ooo:8080/live/T4S00515/820172/167595.ts
-#EXTINF:-1 ,Sony Sports 5 HD 
-http://xtv.ooo:8080/live/T4S00515/820172/167580.ts
-#EXTINF:-1 ,Star Sports 1 HD Hindi
-http://xtv.ooo:8080/live/T4S00515/820172/167573.ts
-#EXTINF:-1 ,Star Sports 1 HD Tamil
-http://xtv.ooo:8080/live/T4S00515/820172/167574.ts
-#EXTINF:-1 ,Star Sports 1 HD 
-http://xtv.ooo:8080/live/T4S00515/820172/167575.ts
-#EXTINF:-1 ,Star Sports 2 HD 
-http://xtv.ooo:8080/live/T4S00515/820172/167576.ts
-#EXTINF:-1 ,Star Sports 3
-http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
-#EXTINF:-1 ,Star Sports 1 Select HD 
-http://xtv.ooo:8080/live/T4S00515/820172/167578.ts
-#EXTINF:-1 ,Star Sports 2 Select HD 
-http://xtv.ooo:8080/live/T4S00515/820172/167579.ts
-#EXTINF:-1 ,Astro Cricket
-http://xtv.ooo:8080/live/T4S00515/820172/167581.ts
-#EXTINF:-1 ,Willow xtra
-http://xtv.ooo:8080/live/T4S00515/820172/167582.ts
-#EXTINF:-1 ,Willow HD
-http://xtv.ooo:8080/live/T4S00515/820172/167583.ts
-#EXTINF:-1 ,EuroSport HD
-http://xtv.ooo:8080/live/T4S00515/820172/167585.ts
-#EXTINF:-1 ,Ten Sports HD
-http://xtv.ooo:8080/live/T4S00515/820172/167569.ts
-#EXTINF:-1 ,Ten Cricket
-http://xtv.ooo:8080/live/T4S00515/820172/167587.ts
-#EXTINF:-1 ,DD Sport
-http://xtv.ooo:8080/live/T4S00515/820172/167588.ts
-#EXTINF:-1 ,T Sports
-http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
-#EXTINF:-1 ,Als Sport
-http://xtv.ooo:8080/live/T4S00515/820172/167591.ts
-#EXTINF:-1 ,Super Cricket
-http://xtv.ooo:8080/live/T4S00515/820172/167592.ts
-#EXTINF:-1 ,Fox HD
-http://xtv.ooo:8080/live/T4S00515/820172/167593.ts
-#EXTINF:-1 ,Sky Sports Cricket
-http://xtv.ooo:8080/live/T4S00515/820172/167594.ts
-#EXTINF:-1 ,Geo Super
-http://xtv.ooo:8080/live/T4S00515/820172/167568.ts
-#EXTINF:-1 ,PTV
-http://xtv.ooo:8080/live/T4S00515/820172/167567.ts
+#EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1764185915&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=579b4d0c0e590b1a69a58a55877a761a
+#EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1764185915&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=983c5485ab7e092c3e8938d7b0fc9d84
+#EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow TV
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1764185916&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=cf205c4f833710efe74bbe1f5bd2175e
+#EXTINF:-1 tvg-id="eacf6c3f-0773-4bc3-a03a-cfee09f10348" tvg-name="PTV Sports" tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Sports",PTV Sports
+https://tvsen5.aynascope.net/PtvSports/index.m3u8?e=1764185917&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=08d7fcdd1f0725009bc28a3c421219cb
+#EXTINF:-1 tvg-id="1bbda610-2fcb-4dac-ba03-714a2591a8c4" tvg-name="FANCODE" tvg-logo="https://s3.aynaott.com/storage/cd6a179dd03654904796600ed00665aa" group-title="Sports",FANCODE
+https://bd-mc-fdlive.fancode.com/mumbai/138295_english_hls_35bd7ab90585502_1adfreeta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="9c354ad6-3efc-4e4d-9cd8-3584bcc9c315" tvg-name="PSN 1 Sports" tvg-logo="https://s3.aynaott.com/storage/b0befd2d80789976ef317aeb5ef935b9" group-title="Sports",PSN 1 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:-1 tvg-id="9e6373ed-e25b-49ef-9a76-35b144535f75" tvg-name="PSN 2 Sports " tvg-logo="https://s3.aynaott.com/storage/a6a66023b1ce294c3d0e8ebf256fa5f7" group-title="Sports",PSN 2 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:-1 tvg-id="02a7f557-a6e7-4254-b9dd-f8c063ba97c5" tvg-name="PSN 4 Sports" tvg-logo="https://s3.aynaott.com/storage/bcfc4d063ae30626ae0ffe998c74c272" group-title="Sports",PSN 4 Sports
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:-1 tvg-id="0790e6bd-458c-4f9d-86d9-1c554383b623" tvg-name="PSN 5 Sports" tvg-logo="https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508" group-title="Sports",PSN 5 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:-1 tvg-id="a51ed57c-a9cb-4dcb-9160-eb0726835c45" tvg-name="Dubai Sports 1" tvg-logo="https://s3.aynaott.com/storage/fa186d6d9b9ba9cb2403531b1fcdc08b" group-title="Sports",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="9c8e02cf-4765-4156-8ecf-999935c0115d" tvg-name="Dubai Sports 2" tvg-logo="https://s3.aynaott.com/storage/01629278d370141d5f1ae8dbdc97907e" group-title="Sports",Dubai Sports 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="e897cca2-8086-42cc-a492-e1f3e4d9aed9" tvg-name="Dubai Sports 3" tvg-logo="https://s3.aynaott.com/storage/833148a9228c3a12ef0effc8f265cf1f" group-title="Sports",Dubai Sports 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="719f4fb9-cc8b-496e-8bf3-a1e5648e2cdb" tvg-name="Fox Sports 1" tvg-logo="https://s3.aynaott.com/storage/04d612228fedede6da010e5b163d5ac6" group-title="Sports",Fox Sports 1
+https://tvsen7.aynascope.net/foxsports1/index.m3u8?e=1764185923&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=2f9562407ebd0445320ec6583301921f
+#EXTINF:-1 tvg-id="93c7e57d-e666-488a-aec9-a339a7e5eb74" tvg-name="Fox Sports 2" tvg-logo="https://s3.aynaott.com/storage/da4282cd107cc3d40efadae488b187e5" group-title="Sports",Fox Sports 2
+https://tvsen7.aynascope.net/foxsports2/index.m3u8?e=1764185923&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=7bcf30b54494d0206daad44438ef7f03
+#EXTINF:-1 tvg-id="79ce27a8-bbfa-4661-a6ff-e6006e1510a3" tvg-name="Sports First TV" tvg-logo="https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3" group-title="Sports",Sports First TV
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+#EXTINF:-1 tvg-id="9f230f21-7a07-4b80-b845-77f9327ddad3" tvg-name="NBC Sports" tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086" group-title="Sports",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="490e6a84-17e2-42bb-8725-66af0c067239" tvg-name="Bein Sports" tvg-logo="https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73" group-title="Sports",Bein Sports
+https://tvsen6.aynascope.net/beinsports/index.m3u8?e=1764185925&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=b9d9c5aa3bce4bc048f88135a736295d
+#EXTINF:-1 tvg-id="e9c383b6-72cd-4825-b815-b388e8a7a5d9" tvg-name="Sharjah Sports TV" tvg-logo="https://s3.aynaott.com/storage/1f08174ace89c73d3d4d8b72dd4601a4" group-title="Sports",Sharjah Sports TV
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="d49b0b2b-0132-4fd8-be49-88145477ee1d" tvg-name="Sports Grid" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46" group-title="Sports",Sports Grid
+https://tvsen6.aynascope.net/SportsGrid/index.m3u8?e=1764185926&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=1df6040a04e6a9fd171ed1b63085fa7a
+#EXTINF:-1 tvg-id="a7c5f56e-52ea-47ca-8b0a-27bf6148c667" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://s3.aynaott.com/storage/4a49a25eebddb4b8ad8e59298dd2040c" group-title="Sports",Abu Dhabi Sports 1
+https://tvsen6.aynascope.net/AbuDhabiSports1/index.m3u8?e=1764185927&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=747649437d931aec11704924cbfe11c8
+#EXTINF:-1 tvg-id="cdc583dd-8031-4b7b-af12-34009af38744" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://s3.aynaott.com/storage/e2f09b3c7415180f248438ef9688846a" group-title="Sports",Abu Dhabi Sports 2
+https://tvsen6.aynascope.net/AbuDhabiSports2/index.m3u8?e=1764185928&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=2657d7131f6022e67279e91375416b8e
+#EXTINF:-1 tvg-id="8cf7e03a-c0c4-4373-8b4f-d2f0c809472c" tvg-name="Goal TV" tvg-logo="https://s3.aynaott.com/storage/495e1816602db61aa4c2a348a257bd0a" group-title="Sports",Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1 tvg-id="576e5655-01d2-442f-b311-7c826d48fb7d" tvg-name="TSN 1" tvg-logo="https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95" group-title="Sports",TSN 1
+https://tvsen7.aynascope.net/tsn1/index.m3u8?e=1764185929&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=773ae634431a7c0f1b04f111dfa9b0a9
+#EXTINF:-1 tvg-id="32d28b2c-aded-481d-833b-cee57cecfc93" tvg-name="TSN 2" tvg-logo="https://s3.aynaott.com/storage/17642cb60c2af7fc36ca1e08cc54fdae" group-title="Sports",TSN 2
+https://tvsen7.aynascope.net/tsn2/index.m3u8?e=1764185929&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=96d9df8ea92462cab6a1446c985052e3
+#EXTINF:-1 tvg-id="9d3a1097-c171-4aee-99ad-e76c0c4a4c75" tvg-name="TSN 3" tvg-logo="https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7" group-title="Sports",TSN 3
+https://tvsen7.aynascope.net/tsn3/index.m3u8?e=1764185930&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=baabe70a906d408a941b24d5771362f0
+#EXTINF:-1 tvg-id="538b24c3-9493-44d5-be7c-482b51734f2c" tvg-name="Xtrem Sports" tvg-logo="https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927" group-title="Sports",Xtrem Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 tvg-id="9954b40b-67df-4cd9-9303-e02d713ad0a0" tvg-name="Golf Channel" tvg-logo="https://s3.aynaott.com/storage/edb73991516696dfd53efbd32d80ca58" group-title="Sports",Golf Channel
+https://tvsen6.aynascope.net/golfchannel/index.m3u8?e=1764185931&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=da8dee62a8ead3e829fee67034483134
+#EXTINF:-1 tvg-id="d2152bbb-64e0-4822-826b-60853ca1d056" tvg-name="WOF 1" tvg-logo="https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6" group-title="Sports",WOF 1
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="129b3bdc-878b-4f63-a722-afd53f9b3712" tvg-name="Sports TV" tvg-logo="https://s3.aynaott.com/storage/334c56d6cedd424b0642ec83f05bc381" group-title="Sports",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-id="94069990-c00c-401a-af81-169ed39d1cb4" tvg-name="NFL Network" tvg-logo="https://s3.aynaott.com/storage/79f1ee920d6931a767ae0030e1c7c12b" group-title="Sports",NFL Network
+https://tvsen6.aynascope.net/nfl/index.m3u8?e=1764185933&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=b1d5e4ec19a20d7f24553ffe683513a3
+#EXTINF:-1 tvg-id="6e70514c-5f8e-483b-8c97-3c971b558a74" tvg-name="Talk Sport" tvg-logo="https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd" group-title="Sports",Talk Sport
+https://tvsen6.aynascope.net/talkSPORT/index.m3u8?e=1764185934&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e22b6832bf6136a2f74d6f9ec0669958
+#EXTINF:-1 tvg-id="3167764d-9154-4dda-a0cc-713ca5dee5d3" tvg-name="KTV Sport Plus" tvg-logo="https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488" group-title="Sports",KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="d774d6a3-906e-42b4-b21a-9090b533a1b1" tvg-name="Marquee Sports Network" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502" group-title="Sports",Marquee Sports Network
+https://tvsen6.aynascope.net/MarqueeSportsNetwork/index.m3u8?e=1764185935&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ea8fa0f4c7b25fa0d5ba0412446552b1
+#EXTINF:-1 tvg-id="0e1fb643-581b-40c5-bb62-1277a6a75ebf" tvg-name="More Then Sports TV" tvg-logo="https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb" group-title="Sports",More Then Sports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="3b238911-d385-406a-b936-07550f30a4f3" tvg-name="DD Sports" tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="Sports",DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-id="594809c8-574e-46cf-a3e5-26e0bec1fe33" tvg-name="Star Sports Select 1" tvg-logo="https://s3.aynaott.com/storage/c96957383c33f1948e34fdcc07fbc29f" group-title="Sports",Star Sports Select 1
+https://tvsen6.aynascope.net/spsel1/index.m3u8?e=1764185937&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=8896260a416a03061531ae7525921ce1
+#EXTINF:-1 tvg-id="6cce2b86-f371-4184-b288-988de0607926" tvg-name="Star Sports Select 2 HD" tvg-logo="https://s3.aynaott.com/storage/16ee3a1243424dfe8f4341a90afbd46e" group-title="Sports",Star Sports Select 2 HD
+https://tvsen7.aynascope.net/ssps2hd/index.m3u8?e=1764185938&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=c600b34293cdabda6fbaec5117c8c741
+#EXTINF:-1 tvg-id="f064e069-8861-43d5-ac79-828b029a50a1" tvg-name="Star Sports 1 HD" tvg-logo="https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7" group-title="Sports",Star Sports 1 HD
+https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1764185939&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=43df141052c92c7683cc5e78f97c42cc
+#EXTINF:-1 tvg-id="3ac46078-2bf0-4998-a021-37b459e09fba" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://s3.aynaott.com/storage/daeac3b0e17bfabd911bd5dc63c69aa8" group-title="Sports",STAR SPORTS 2 HD
+https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1764185939&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=6ad04fbaa0c5d3c78f5ad7f71748be21
+#EXTINF:-1 tvg-id="6d75259a-cecb-4905-8146-358ec6938c62" tvg-name="Bahrain Sports 1" tvg-logo="https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142" group-title="Sports",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="71e96376-d08c-4314-b2d6-449ff40a90b0" tvg-name="Bahrain Sports 2" tvg-logo="https://s3.aynaott.com/storage/4429e88eac56b0c7c7274ce36db967d8" group-title="Sports",Bahrain Sports 2
+https://tvsen6.aynascope.net/BahrainSports2/index.m3u8?e=1764185941&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=7755fe90d93cc5e041abc3451ddd3be6
+#EXTINF:-1 tvg-id="0d69c371-f79e-40f8-8952-01be9e9cdb03" tvg-name="Oman Sports TV" tvg-logo="https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9" group-title="Sports",Oman Sports TV
+https://tvsen6.aynascope.net/OmanSportsTV/index.m3u8?e=1764185941&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e8ca502d2f5938180c80e3eef4a15cb7
+#EXTINF:-1 tvg-id="29ca0414-87d4-43c6-8477-68ef5a6391a6" tvg-name="4 Sports" tvg-logo="https://s3.aynaott.com/storage/076d49c9e09651ec0f1e1eee338e4a19" group-title="Sports",4 Sports
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 tvg-id="db86c869-7bdd-44f5-9147-841d7cea1537" tvg-name="Motor Sports TV" tvg-logo="https://s3.aynaott.com/storage/98963a3064053f0f01bdf9186c86c432" group-title="Sports",Motor Sports TV
+https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="3f01188b-bba8-44ed-a75a-2662c108450c" tvg-name="speed sports 1" tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e" group-title="Sports",speed sports 1
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="862bc1f4-6430-4198-87c5-fa040776c1c7" tvg-name="Persiana Sports" tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-id="1a9b1673-3098-4451-ac14-28ab9c3b2a3b" tvg-name="Rta sports" tvg-logo="https://s3.aynaott.com/storage/ce9f61273938b15fd5372f1071ecfec5" group-title="Sports",Rta sports
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1 tvg-id="1fab9ff5-a704-4457-b028-3251afbb040d" tvg-name="Dubai One" tvg-logo="https://s3.aynaott.com/storage/f61b7578d7596a0cd3a1e226dec4454a" group-title="Sports",Dubai One
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="33386cf6-4275-4e8a-93f8-a530f0db1e45" tvg-name="Sports Fishing TV" tvg-logo="https://s3.aynaott.com/storage/fede32688e783945fed0473f3b0daf23" group-title="Sports",Sports Fishing TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+#EXTINF:-1 tvg-id="b0bdcd1a-d9f8-4e45-92d2-deb4c842c691" tvg-name="Dubai Sports" tvg-logo="https://s3.aynaott.com/storage/c30429bafb0fb4f457efec501cb9f0e8" group-title="Sports",Dubai Sports
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="e263cd7f-45e9-4bc6-a350-bf968eb51b14" tvg-name="Espn" tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",Espn
+https://tvsen5.aynascope.net/espn/index.m3u8?e=1764185947&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=048df2896fbabda36cd922cd32692a34
+#EXTINF:-1 tvg-id="909428fa-8473-43b2-aad5-23cf86b0d829" tvg-name="Bleav Football" tvg-logo="https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928" group-title="Sports",Bleav Football
+https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-name="Cricket Gold" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4" group-title="Sports",Cricket Gold
+https://tvsen6.aynascope.net/CricketGold/index.m3u8?e=1764185948&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=33946579bed8189e3034efb699365b22
+#EXTINF:-1 tvg-id="10bb1341-2aa8-4be2-8a25-76a75f5a3ee7" tvg-name="BT Sports 2" tvg-logo="https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a" group-title="Sports",BT Sports 2
+https://tvsen6.aynascope.net/btSport2/index.m3u8?e=1764185949&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=edb76decaf2c92759abe79244ab486c7
+#EXTINF:-1 tvg-id="a57241fe-02b1-4a39-a602-84a57622be6c" tvg-name="TNT Sport 1" tvg-logo="https://s3.aynaott.com/storage/a3d1a4112bc7c6ee337871b58449542c" group-title="Sports",TNT Sport 1
+https://tvsen6.aynascope.net/btSport1/index.m3u8?e=1764185949&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=8da9256d82578dd021e85f7acce90160
+#EXTINF:-1 tvg-id="619f8fb4-35bc-4d19-bcbb-cd35b5843ac0" tvg-name="Geo Super HD" tvg-logo="https://s3.aynaott.com/storage/07decb298043de2944e444a03bc2bcbc" group-title="Sports",Geo Super HD
+http://116.90.120.149:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="6f4426c7-e48d-4b57-9747-4e0af8cc0365" tvg-name="Tsport 7" tvg-logo="https://s3.aynaott.com/storage/a5b72812fcfb7bbe4fcdcd455824db7e" group-title="Sports",Tsport 7
+https://tvsen6.aynascope.net/tsport7/index.m3u8?e=1764185950&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=1db995083e45e2d25e2a44ac6d74a73b
+#EXTINF:-1 tvg-id="38b0853b-8333-4387-bd86-8437073a1c49" tvg-name="Pro Sports International" tvg-logo="https://s3.aynaott.com/storage/370762bb5582389fb52469931cdcd357" group-title="Sports",Pro Sports International
+https://proshls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 ,Somoy Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/30.ts
-#EXTINF:-1 ,ATN Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/167.ts
-#EXTINF:-1 ,ATN News HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/380.ts
-#EXTINF:-1 ,ATN Islamic
-http://lifetvbd.xyz:8080/live/3363696/3363696/381.ts
-#EXTINF:-1 ,Machranga HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/73.ts
-#EXTINF:-1 ,Ekhon
-http://lifetvbd.xyz:8080/live/3363696/3363696/325.ts
-#EXTINF:-1 ,Channel I HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/326.ts
-#EXTINF:-1 ,Ntv
-http://lifetvbd.xyz:8080/live/3363696/3363696/78.ts
-#EXTINF:-1 ,Channel 24
-http://lifetvbd.xyz:8080/live/3363696/3363696/83.ts
-#EXTINF:-1 ,Jamuna Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/84.ts
-#EXTINF:-1 ,RTV HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/85.ts
-#EXTINF:-1 ,Bangla Vision HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/86.ts
-#EXTINF:-1 ,71 TV
-http://lifetvbd.xyz:8080/live/3363696/3363696/318.ts
-#EXTINF:-1 ,DBC News
-http://lifetvbd.xyz:8080/live/3363696/3363696/114.ts
-#EXTINF:-1 ,Independent
-http://lifetvbd.xyz:8080/live/3363696/3363696/119.ts
-#EXTINF:-1 ,News 24 HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/502.ts
-#EXTINF:-1 ,Bijoy Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/498.ts
-#EXTINF:-1 ,Mohona Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/503.ts
-#EXTINF:-1 ,DBC News
-http://lifetvbd.xyz:8080/live/3363696/3363696/171.ts
-#EXTINF:-1 ,Boishakhi TV
-http://lifetvbd.xyz:8080/live/3363696/3363696/170.ts
-#EXTINF:-1 ,SA Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/39.ts
-#EXTINF:-1 ,Asian
-http://lifetvbd.xyz:8080/live/3363696/3363696/40.ts
-#EXTINF:-1 ,Barendra TV
-http://lifetvbd.xyz:8080/live/3363696/3363696/169.ts
-#EXTINF:-1 ,Jormovumi
-http://lifetvbd.xyz:8080/live/3363696/3363696/41.ts
-#EXTINF:-1 ,Bangla Tv HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/371.ts
-#EXTINF:-1 ,Ekushe Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/372.ts
-#EXTINF:-1 ,My Tv HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/43.ts
-#EXTINF:-1 ,Channel 9 HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/493.ts
-#EXTINF:-1 ,Duranto
-http://lifetvbd.xyz:8080/live/3363696/3363696/228.ts
-#EXTINF:-1 ,Deepto Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/3702.ts
-#EXTINF:-1 ,Ruposhi Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/248.ts
-#EXTINF:-1 ,BTV HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/74.ts
-#EXTINF:-1 ,BTV World
-http://lifetvbd.xyz:8080/live/3363696/3363696/75.ts
-#EXTINF:-1 ,BTV Chottogram
-http://lifetvbd.xyz:8080/live/3363696/3363696/256.ts
-#EXTINF:-1 ,Nexus Television HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/79.ts
-#EXTINF:-1 ,Desh Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/80.ts
-#EXTINF:-1 ,Green Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/81.ts
-#EXTINF:-1 ,Azan Bangla TV
-http://lifetvbd.xyz:8080/live/3363696/3363696/82.ts
-#EXTINF:-1 ,Global Television HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
-#EXTINF:-1 ,Deen TV
-http://lifetvbd.xyz:8080/live/3363696/3363696/77.ts
-#EXTINF:-1 ,Desi Channel
-http://lifetvbd.xyz:8080/live/3363696/3363696/178.ts
-#EXTINF:-1 ,Annondo Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/44.ts
-#EXTINF:-1 ,Khuhboo Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/14.ts
-#EXTINF:-1 ,Nan Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/45.ts
-#EXTINF:-1 ,Nandan
-http://lifetvbd.xyz:8080/live/3363696/3363696/47.ts
-#EXTINF:-1 ,NRB HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/48.ts
-#EXTINF:-1 ,Rongean
-http://lifetvbd.xyz:8080/live/3363696/3363696/58.ts
-#EXTINF:-1 ,Ntv Kohalpur
-http://lifetvbd.xyz:8080/live/3363696/3363696/36.ts
-#EXTINF:-1 ,Boomerang
-http://lifetvbd.xyz:8080/live/3363696/3363696/246.ts
-#EXTINF:-1 ,IB Tv Bangla USA
-http://lifetvbd.xyz:8080/live/3363696/3363696/379.ts
-#EXTINF:-1 ,Arabic Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/377.ts
-#EXTINF:-1 ,B24 C
-http://lifetvbd.xyz:8080/637274728473/1020304050/1806.ts
-#EXTINF:-1 ,Channel Europe
-http://lifetvbd.xyz:8080/637274728473/1020304050/1805.ts
-#EXTINF:-1 ,Bisso Bangla 24
-http://lifetvbd.xyz:8080/637274728473/1020304050/1803.ts
-#EXTINF:-1 ,S 
-http://lifetvbd.xyz:8080/637274728473/1020304050/1804.ts
-#EXTINF:-1 ,The Channel TV
-http://lifetvbd.xyz:8080/637274728473/1020304050/1801.ts
-#EXTINF:-1 ,Manaranjan Movies
-http://lifetvbd.xyz:8080/637274728473/1020304050/1808.ts
-#EXTINF:-1 ,R Bangla
-http://lifetvbd.xyz:8080/637274728473/1020304050/1809.ts
-#EXTINF:-1 ,Toffee Sports
-http://lifetvbd.xyz:8080/live/3363696/3363696/3595.ts
-#EXTINF:-1 ,Astro Cricket
-http://lifetvbd.xyz:8080/live/3363696/3363696/49.ts
-#EXTINF:-1 ,Sony Sports 1 HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/66.ts
-#EXTINF:-1 ,Sony Sports 2 HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/67.ts
-#EXTINF:-1 ,Sony Sports 3 HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/136.ts
-#EXTINF:-1 ,Sony Sports 5HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/133.ts
-#EXTINF:-1 ,Star Sports 1 HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/135.ts
-#EXTINF:-1 ,Star Sports 2 HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/53.ts
-#EXTINF:-1 ,Star Sports 3
-http://lifetvbd.xyz:8080/live/3363696/3363696/134.ts
-#EXTINF:-1 ,Star Sports Select 1 HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/59.ts
-#EXTINF:-1 ,Star Sports Select 2 HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/60.ts
-#EXTINF:-1 ,Sky Sports
-http://lifetvbd.xyz:8080/live/3363696/3363696/345.ts
-#EXTINF:-1 ,Sky Sports Main event
-http://lifetvbd.xyz:8080/live/3363696/3363696/62.ts
-#EXTINF:-1 ,Sky Sports Cricket
-http://lifetvbd.xyz:8080/live/3363696/3363696/95.ts
-#EXTINF:-1 ,Sky Sports Football
-http://lifetvbd.xyz:8080/live/3363696/3363696/112.ts
-#EXTINF:-1 ,Flow Sports
-http://lifetvbd.xyz:8080/live/3363696/3363696/55.ts
-#EXTINF:-1 ,Willow Xtra
-http://lifetvbd.xyz:8080/live/3363696/3363696/57.ts
-#EXTINF:-1 ,Willow HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/87.ts
-#EXTINF:-1 ,TNT Sports 1
-http://lifetvbd.xyz:8080/live/3363696/3363696/221.ts
-#EXTINF:-1 ,TNT Sports 2 
-http://lifetvbd.xyz:8080/live/3363696/3363696/241.ts
-#EXTINF:-1 ,Sports 18 HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/148.ts
-#EXTINF:-1 ,T Sports HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/64.ts
-#EXTINF:-1 ,10 Play 
-http://lifetvbd.xyz:8080/live/3363696/3363696/70.ts
-#EXTINF:-1 ,4 Sports Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/107.ts
-#EXTINF:-1 ,Bein Sports
-http://lifetvbd.xyz:8080/live/3363696/3363696/301.ts
-#EXTINF:-1 ,Bein Sports 6
-http://lifetvbd.xyz:8080/live/3363696/3363696/109.ts
-#EXTINF:-1 ,PTV 
-http://lifetvbd.xyz:8080/live/3363696/3363696/505.ts
-#EXTINF:-1 ,PTV Hd
-http://lifetvbd.xyz:8080/live/3363696/3363696/71.ts
-#EXTINF:-1 ,SSC 1
-http://lifetvbd.xyz:8080/live/3363696/3363696/188.ts
-#EXTINF:-1 ,SSC 2
-http://lifetvbd.xyz:8080/live/3363696/3363696/261.ts
-#EXTINF:-1 ,Dubai Sports 1
-http://lifetvbd.xyz:8080/live/3363696/3363696/252.ts
-#EXTINF:-1 ,Dubai Sports 2
-http://lifetvbd.xyz:8080/live/3363696/3363696/253.ts
-#EXTINF:-1 ,Dubai 2 Racing
-http://lifetvbd.xyz:8080/live/3363696/3363696/194.ts
-#EXTINF:-1 ,Red Bull TV
-http://lifetvbd.xyz:8080/live/3363696/3363696/282.ts
-#EXTINF:-1 ,Tennis Channel
-http://lifetvbd.xyz:8080/live/3363696/3363696/283.ts
-#EXTINF:-1 ,MUTV
-http://lifetvbd.xyz:8080/live/3363696/3363696/264.ts
-#EXTINF:-1 ,FS1
-http://lifetvbd.xyz:8080/live/3363696/3363696/330.ts
-#EXTINF:-1 ,Rush Sports
-http://lifetvbd.xyz:8080/live/3363696/3363696/353.ts
-#EXTINF:-1 ,Rush Sports 2
-http://lifetvbd.xyz:8080/live/3363696/3363696/354.ts
-#EXTINF:-1 ,Super Cricket
-http://lifetvbd.xyz:8080/live/3363696/3363696/466.ts
-#EXTINF:-1 ,Premier League
-http://lifetvbd.xyz:8080/live/3363696/3363696/469.ts
-#EXTINF:-1 ,ESPN 2
-http://lifetvbd.xyz:8080/live/3363696/3363696/499.ts
-#EXTINF:-1 ,Zee Cinema HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/1.ts
-#EXTINF:-1 ,AND Pictures HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/4.ts
-#EXTINF:-1 ,Colors Cineplex HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/214.ts
-#EXTINF:-1 ,Sony Max HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/495.ts
-#EXTINF:-1 ,Sony Max2
-http://lifetvbd.xyz:8080/live/3363696/3363696/461.ts
-#EXTINF:-1 ,star Gold HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/42.ts
-#EXTINF:-1 ,Star Gold 2 HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/65.ts
-#EXTINF:-1 ,Star Gold Select HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/92.ts
-#EXTINF:-1 ,Star Gold Thrills
-http://lifetvbd.xyz:8080/live/3363696/3363696/93.ts
-#EXTINF:-1 ,Zee Action
-http://lifetvbd.xyz:8080/live/3363696/3363696/2.ts
-#EXTINF:-1 ,Zee Classic
-http://lifetvbd.xyz:8080/live/3363696/3363696/190.ts
-#EXTINF:-1 ,Zee Bollywood
-http://lifetvbd.xyz:8080/live/3363696/3363696/3.ts
-#EXTINF:-1 ,Zee Anmal Cinema
-http://lifetvbd.xyz:8080/live/3363696/3363696/5.ts
-#EXTINF:-1 ,Goldmines
-http://lifetvbd.xyz:8080/live/3363696/3363696/12.ts
-#EXTINF:-1 ,Goldmines Bollywood
-http://lifetvbd.xyz:8080/live/3363696/3363696/13.ts
-#EXTINF:-1 ,Utsab Gold HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/37.ts
-#EXTINF:-1 ,Action Movie Plex
-http://lifetvbd.xyz:8080/live/3363696/3363696/364.ts
-#EXTINF:-1 ,Hindi Movies
-http://lifetvbd.xyz:8080/live/3363696/3363696/52.ts
-#EXTINF:-1 ,& Prive HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/99.ts
-#EXTINF:-1 ,ANd Prive Hd
-http://lifetvbd.xyz:8080/live/3363696/3363696/304.ts
-#EXTINF:-1 ,& Flix HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/100.ts
-#EXTINF:-1 ,Zee Cafe HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/391.ts
-#EXTINF:-1 ,Jalsa Movie HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/415.ts
-#EXTINF:-1 ,Zee Bangla Cinema
-http://lifetvbd.xyz:8080/live/3363696/3363696/7.ts
-#EXTINF:-1 ,Jalsa Movies
-http://lifetvbd.xyz:8080/live/3363696/3363696/375.ts
-#EXTINF:-1 ,Shemaroo Bollywood
-http://lifetvbd.xyz:8080/live/3363696/3363696/288.ts
-#EXTINF:-1 ,Maha Movie
-http://lifetvbd.xyz:8080/live/3363696/3363696/289.ts
-#EXTINF:-1 ,Enter 10
-http://lifetvbd.xyz:8080/live/3363696/3363696/141.ts
-#EXTINF:-1 ,Dhinchaak
-http://lifetvbd.xyz:8080/live/3363696/3363696/124.ts
-#EXTINF:-1 ,Romedy NOW
-http://lifetvbd.xyz:8080/live/3363696/3363696/127.ts
-#EXTINF:-1 ,Bollywood Prime
-http://lifetvbd.xyz:8080/live/3363696/3363696/172.ts
-#EXTINF:-1 ,Classic Bollywood
-http://lifetvbd.xyz:8080/live/3363696/3363696/173.ts
-#EXTINF:-1 ,Bollywood HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/174.ts
-#EXTINF:-1 ,Marathi Movie
-http://lifetvbd.xyz:8080/live/3363696/3363696/269.ts
-#EXTINF:-1 ,Movies Active
-http://lifetvbd.xyz:8080/live/3363696/3363696/463.ts
-#EXTINF:-1 ,Hungama
-http://lifetvbd.xyz:8080/live/3363696/3363696/90.ts
-#EXTINF:-1 ,Filamchi
-http://lifetvbd.xyz:8080/live/3363696/3363696/176.ts
-#EXTINF:-1 ,Bhojpuri Cinema
-http://lifetvbd.xyz:8080/live/3363696/3363696/197.ts
-#EXTINF:-1 ,AND Tv Hd
-http://lifetvbd.xyz:8080/live/3363696/3363696/9.ts
-#EXTINF:-1 ,Star Plus HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/123.ts
-#EXTINF:-1 ,Sony HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/125.ts
-#EXTINF:-1 ,Sony Sub HD 
-http://lifetvbd.xyz:8080/live/3363696/3363696/138.ts
-#EXTINF:-1 ,Sony Kal
-http://lifetvbd.xyz:8080/live/3363696/3363696/180.ts
-#EXTINF:-1 ,Sony Kal DOUBLE
-http://lifetvbd.xyz:8080/live/3363696/3363696/242.ts
-#EXTINF:-1 ,Star Bharat HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/115.ts
-#EXTINF:-1 ,Colors HD
-http://lifetvbd.xyz:8080/637274728473/1020304050/1504.ts
-#EXTINF:-1 ,Zee Anmal
-http://lifetvbd.xyz:8080/live/3363696/3363696/17.ts
-#EXTINF:-1 ,Sony Pal
-http://lifetvbd.xyz:8080/live/3363696/3363696/474.ts
-#EXTINF:-1 ,Sony Wah
-http://lifetvbd.xyz:8080/637274728473/1020304050/1807.ts
-#EXTINF:-1 ,Sony AATH Hindi
-http://lifetvbd.xyz:8080/live/3363696/3363696/24.ts
-#EXTINF:-1 ,Star tamil HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/251.ts
-#EXTINF:-1 ,Hum 
-http://lifetvbd.xyz:8080/live/3363696/3363696/504.ts
-#EXTINF:-1 ,Entertainment
-http://lifetvbd.xyz:8080/live/3363696/3363696/535.ts
-#EXTINF:-1 ,Play
-http://lifetvbd.xyz:8080/live/3363696/3363696/536.ts
-#EXTINF:-1 ,Zee Bangla HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/11.ts
-#EXTINF:-1 ,Zee Bangla HD DOUBLE
-http://lifetvbd.xyz:8080/live/3363696/3363696/120.ts
-#EXTINF:-1 ,Star Jalsa HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/50.ts
-#EXTINF:-1 ,Star Jalsa HD DOUBLE
-http://lifetvbd.xyz:8080/live/3363696/3363696/494.ts
-#EXTINF:-1 ,Colors HD Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/121.ts
-#EXTINF:-1 ,Zee Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/225.ts
-#EXTINF:-1 ,Star Jalsa
-http://lifetvbd.xyz:8080/live/3363696/3363696/226.ts
-#EXTINF:-1 ,Enter 10 Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/219.ts
-#EXTINF:-1 ,Akash 8
-http://lifetvbd.xyz:8080/live/3363696/3363696/31.ts
-#EXTINF:-1 ,Sun Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/118.ts
-#EXTINF:-1 ,Gaan Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/212.ts
-#EXTINF:-1 ,ATN Music
-http://lifetvbd.xyz:8080/live/3363696/3363696/217.ts
-#EXTINF:-1 ,Dhoom
-http://lifetvbd.xyz:8080/live/3363696/3363696/319.ts
-#EXTINF:-1 ,9XM
-http://lifetvbd.xyz:8080/live/3363696/3363696/16.ts
-#EXTINF:-1 ,9X Jalwa
-http://lifetvbd.xyz:8080/live/3363696/3363696/29.ts
-#EXTINF:-1 ,9X Tashan
-http://lifetvbd.xyz:8080/live/3363696/3363696/177.ts
-#EXTINF:-1 ,B4U Music
-http://lifetvbd.xyz:8080/live/3363696/3363696/72.ts
-#EXTINF:-1 ,Sangeet Bangla
-http://lifetvbd.xyz:8080/live/3363696/3363696/25.ts
-#EXTINF:-1 ,Zoom
-http://lifetvbd.xyz:8080/live/3363696/3363696/26.ts
-#EXTINF:-1 ,Masti
-http://lifetvbd.xyz:8080/live/3363696/3363696/27.ts
-#EXTINF:-1 ,Music India
-http://lifetvbd.xyz:8080/live/3363696/3363696/28.ts
-#EXTINF:-1 ,MTV Beats HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/110.ts
-#EXTINF:-1 ,MTV HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/111.ts
-#EXTINF:-1 ,Animal Planet Hd
-http://lifetvbd.xyz:8080/live/3363696/3363696/18.ts
-#EXTINF:-1 ,Discovey HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/21.ts
-#EXTINF:-1 ,Disnep Channel
-http://lifetvbd.xyz:8080/live/3363696/3363696/496.ts
-#EXTINF:-1 ,Discovery HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/470.ts
-#EXTINF:-1 ,Discovey Science
-http://lifetvbd.xyz:8080/live/3363696/3363696/23.ts
-#EXTINF:-1 ,Wild HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/116.ts
-#EXTINF:-1 ,National Geographic HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/163.ts
-#EXTINF:-1 ,BBC Earth
-http://lifetvbd.xyz:8080/live/3363696/3363696/129.ts
-#EXTINF:-1 ,TLC HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/20.ts
-#EXTINF:-1 ,FOX Life HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/140.ts
-#EXTINF:-1 ,Travelxp HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/132.ts
-#EXTINF:-1 ,History TV 18 HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/162.ts
-#EXTINF:-1 ,Inwild
-http://lifetvbd.xyz:8080/live/3363696/3363696/277.ts
-#EXTINF:-1 ,Introuble
-http://lifetvbd.xyz:8080/live/3363696/3363696/273.ts
-#EXTINF:-1 ,Travelxp
-http://lifetvbd.xyz:8080/live/3363696/3363696/268.ts
-#EXTINF:-1 ,Now Fox
-http://lifetvbd.xyz:8080/live/3363696/3363696/274.ts
-#EXTINF:-1 ,FOOD FOOD
-http://lifetvbd.xyz:8080/live/3363696/3363696/185.ts
-#EXTINF:-1 ,DK
-http://lifetvbd.xyz:8080/live/3363696/3363696/22.ts
-#EXTINF:-1 ,Sonic
-http://lifetvbd.xyz:8080/live/3363696/3363696/32.ts
-#EXTINF:-1 ,Sony YAY
-http://lifetvbd.xyz:8080/live/3363696/3363696/224.ts
-#EXTINF:-1 ,Cartoon Network
-http://lifetvbd.xyz:8080/live/3363696/3363696/34.ts
-#EXTINF:-1 ,Cartoon Network
-http://lifetvbd.xyz:8080/live/3363696/3363696/102.ts
-#EXTINF:-1 ,Disnep Channel
-http://lifetvbd.xyz:8080/live/3363696/3363696/89.ts
-#EXTINF:-1 ,Disnep Junior
-http://lifetvbd.xyz:8080/live/3363696/3363696/324.ts
-#EXTINF:-1 ,Nick
-http://lifetvbd.xyz:8080/live/3363696/3363696/223.ts
-#EXTINF:-1 ,Nick Jr
-http://lifetvbd.xyz:8080/live/3363696/3363696/149.ts
-#EXTINF:-1 ,Nick Jr HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/150.ts
-#EXTINF:-1 ,Cartoon
-http://lifetvbd.xyz:8080/live/3363696/3363696/166.ts
-#EXTINF:-1 ,Cartoon Club
-http://lifetvbd.xyz:8080/live/3363696/3363696/245.ts
-#EXTINF:-1 ,Star Movies HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/236.ts
-#EXTINF:-1 ,Star Movies Select HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/94.ts
-#EXTINF:-1 ,AXN HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/54.ts
-#EXTINF:-1 ,MN+ HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/103.ts
-#EXTINF:-1 ,Sony PIX HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/128.ts
-#EXTINF:-1 ,MNX HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/130.ts
-#EXTINF:-1 ,HG TV
-http://lifetvbd.xyz:8080/live/3363696/3363696/164.ts
-#EXTINF:-1 ,DMAX
-http://lifetvbd.xyz:8080/live/3363696/3363696/181.ts
-#EXTINF:-1 ,Gubbare
-http://lifetvbd.xyz:8080/live/3363696/3363696/189.ts
-#EXTINF:-1 ,Show Box
-http://lifetvbd.xyz:8080/live/3363696/3363696/284.ts
-#EXTINF:-1 ,Nikelodeon
-http://lifetvbd.xyz:8080/live/3363696/3363696/457.ts
-#EXTINF:-1 ,Movie
-http://lifetvbd.xyz:8080/live/3363696/3363696/460.ts
-#EXTINF:-1 ,English Movie
-http://lifetvbd.xyz:8080/live/3363696/3363696/497.ts
-#EXTINF:-1 ,Hugol 2
-http://lifetvbd.xyz:8080/live/3363696/3363696/286.ts
-#EXTINF:-1 ,MBC HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/382.ts
-#EXTINF:-1 ,Kappa Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/384.ts
-#EXTINF:-1 ,Arabic 
-http://lifetvbd.xyz:8080/live/3363696/3363696/390.ts
-#EXTINF:-1 ,Arabic 
-http://lifetvbd.xyz:8080/live/3363696/3363696/137.ts
-#EXTINF:-1 ,Islamic
-http://lifetvbd.xyz:8080/live/3363696/3363696/192.ts
-#EXTINF:-1 ,Ari HD
-http://lifetvbd.xyz:8080/live/3363696/3363696/193.ts
-#EXTINF:-1 ,Islamic
-http://lifetvbd.xyz:8080/live/3363696/3363696/198.ts
-#EXTINF:-1 ,Religion
-http://lifetvbd.xyz:8080/live/3363696/3363696/275.ts
-#EXTINF:-1 ,Peace Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/276.ts
-#EXTINF:-1 ,ABC 7
-http://lifetvbd.xyz:8080/live/3363696/3363696/199.ts
-#EXTINF:-1 ,CGTN
-http://lifetvbd.xyz:8080/live/3363696/3363696/200.ts
-#EXTINF:-1 ,Sky News
-http://lifetvbd.xyz:8080/live/3363696/3363696/201.ts
-#EXTINF:-1 ,NDTV
-http://lifetvbd.xyz:8080/live/3363696/3363696/202.ts
-#EXTINF:-1 ,Zee News
-http://lifetvbd.xyz:8080/live/3363696/3363696/205.ts
-#EXTINF:-1 ,News
-http://lifetvbd.xyz:8080/live/3363696/3363696/206.ts
-#EXTINF:-1 ,CNA
-http://lifetvbd.xyz:8080/live/3363696/3363696/207.ts
-#EXTINF:-1 ,ABP Ananda
-http://lifetvbd.xyz:8080/live/3363696/3363696/209.ts
-#EXTINF:-1 ,Scriot News
-http://lifetvbd.xyz:8080/live/3363696/3363696/210.ts
-#EXTINF:-1 ,BBC News
-http://lifetvbd.xyz:8080/live/3363696/3363696/218.ts
-#EXTINF:-1 ,CNN
-http://lifetvbd.xyz:8080/live/3363696/3363696/321.ts
-#EXTINF:-1 ,Aljajeera
-http://lifetvbd.xyz:8080/live/3363696/3363696/347.ts
-#EXTINF:-1 ,Aab Tak
-http://lifetvbd.xyz:8080/live/3363696/3363696/386.ts
-#EXTINF:-1 ,Unknown
-http://lifetvbd.xyz:8080/live/3363696/3363696/56.ts
-#EXTINF:-1 ,Unknown
-http://lifetvbd.xyz:8080/live/3363696/3363696/104.ts
-#EXTINF:-1 ,Unknown
-http://lifetvbd.xyz:8080/live/3363696/3363696/106.ts
 
 
 
