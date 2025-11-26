@@ -163,6 +163,78 @@ http://212.186.45.34:9981/stream/channelid/1840087075?profile=pass
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="dubaisports3.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Dubai_Sports_Logo_in_2023.png",FB+MIX | Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1  tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/59gCbVd.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 501 FHD
+https://a1xs.vip/700001
+#EXTINF:-1  tvg-name="Fox Sports 502 FHD" tvg-id="FoxLeague.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/idKGREY.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 502 FHD
+https://a1xs.vip/700002
+#EXTINF:-1  tvg-name="Fox Sports 503 FHD" tvg-id="FoxSports503.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/5PUsSnn.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 503 FHD
+https://a1xs.vip/700003
+#EXTINF:-1  tvg-name="Fox Sports 504 FHD" tvg-id="FoxFooty.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/aEoU7gf.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 504 FHD
+https://a1xs.vip/700004
+#EXTINF:-1  tvg-name="Fox Sports 505 FHD" tvg-id="FoxSports505.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/angJkah.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 505 FHD
+https://a1xs.vip/700005
+#EXTINF:-1  tvg-name="Fox Sports 506 FHD" tvg-id="FoxSports506.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/eA1hiR0.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 506 FHD
+https://a1xs.vip/700006
+#EXTINF:-1  tvg-name="Fox Sports 507 FHD" tvg-id="FoxSportsMore.au" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/kGm7Ts1.png" group-title="A1xmedia AU Sports" radio="false",Fox Sports 507 FHD
+https://a1xs.vip/700007
+#EXTINF:-1  tvg-name="Optus Sports 1" tvg-id="Sports.Dummy.us" tvg-logo="https://cloud.clearlink.services/logos/optus-sport.png" group-title="A1xmedia AU Sports" radio="false",Optus Sports 1
+https://a1xs.vip/700010
+#EXTINF:-1  tvg-name="Optus Sports 2" tvg-id="Sports.Dummy.us" tvg-logo="https://cloud.clearlink.services/logos/optus-sport.png" group-title="A1xmedia AU Sports" radio="false",Optus Sports 2
+https://a1xs.vip/700011
+#EXTINF:-1  tvg-name="Sportsnet 360 FHD" tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/8YNVKqC.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet 360 FHD
+https://a1xs.vip/6000014
+#EXTINF:-1  tvg-name="Sportsnet One FHD" tvg-id="Sportsnet.One.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/SxBnZN0.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet One FHD
+https://a1xs.vip/6000012
+#EXTINF:-1  tvg-name="Sportsnet Ontario FHD" tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/o6Ct6Ce.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet Ontario FHD
+https://a1xs.vip/6000011
+#EXTINF:-1  tvg-name="Sportsnet West" tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/GAlu4gn.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet West
+https://a1xs.vip/6000015
+#EXTINF:-1  tvg-name="Sportsnet World FHD" tvg-id="Sportsnet.World.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/EJy8K7F.png" group-title="A1xmedia CA Sports" radio="false",Sportsnet World FHD
+https://a1xs.vip/6000013
+#EXTINF:-1  tvg-name="TSN1" tvg-id="TSN.1.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/xF3cHNd.png" group-title="A1xmedia CA Sports" radio="false",TSN1
+https://a1xs.vip/6000001
+#EXTINF:-1  tvg-name="TSN2" tvg-id="TSN.2.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/iTSoxQW.png" group-title="A1xmedia CA Sports" radio="false",TSN2
+https://a1xs.vip/6000002
+#EXTINF:-1  tvg-name="TSN3" tvg-id="TSN.3.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/dPMY5Kc.png" group-title="A1xmedia CA Sports" radio="false",TSN3
+https://a1xs.vip/6000003
+#EXTINF:-1  tvg-name="TSN4" tvg-id="TSN.4.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/9EInDNq.png" group-title="A1xmedia CA Sports" radio="false",TSN4
+https://a1xs.vip/6000004
+#EXTINF:-1  tvg-name="TSN5" tvg-id="TSN.5.ca2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/houBcHX.png" group-title="A1xmedia CA Sports" radio="false",TSN5
+https://a1xs.vip/6000005
+#EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="A1xmedia EPL" radio="false",Hub Premier 1 FHD
+https://a1xs.vip/1100041
+#EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="A1xmedia EPL" radio="false",Hub Premier 2 FHD
+https://a1xs.vip/1100042
+#EXTINF:-1  tvg-name="Hub Premier 3 FHD" tvg-id="Hub.Premier.3.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-title="A1xmedia EPL" radio="false",Hub Premier 3 FHD
+https://a1xs.vip/1100043
+#EXTINF:-1  tvg-name="Hub Premier 4 FHD" tvg-id="Hub.Premier.4.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-title="A1xmedia EPL" radio="false",Hub Premier 4 FHD
+https://a1xs.vip/1100044
+#EXTINF:-1  tvg-name="AL: Super Sport 1 FHD" tvg-id="SuperSport.1.al" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/zI22zLw.png" group-title="A1xmedia EU Sports" radio="false",AL: Super Sport 1 FHD
+https://a1xs.vip/130001
+#EXTINF:-1  tvg-name="AL: Super Sport 2 FHD" tvg-id="SuperSport.2.al" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/zI22zLw.png" group-title="A1xmedia EU Sports" radio="false",AL: Super Sport 2 FHD
+https://a1xs.vip/130002
+#EXTINF:-1  tvg-name="AL: Super Sport 3 FHD" tvg-id="SuperSport.3.al" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/zI22zLw.png" group-title="A1xmedia EU Sports" radio="false",AL: Super Sport 3 FHD
+https://a1xs.vip/130003
+#EXTINF:-1  tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/NRK8Uc6.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 1 NZ
+https://a1xs.vip/700031
+#EXTINF:-1  tvg-name="SKY Sport 2 NZ" tvg-id="SKY.Sport.2.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/IEDwF39.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 2 NZ
+https://a1xs.vip/700032
+#EXTINF:-1  tvg-name="SKY Sport 3 NZ" tvg-id="SKY.Sport.3.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/gTeEX4f.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 3 NZ
+https://a1xs.vip/700033
+#EXTINF:-1  tvg-name="SKY Sport 4 NZ" tvg-id="SKY.Sport.4.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/ogjOWQV.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 4 NZ
+https://a1xs.vip/700034
+#EXTINF:-1  tvg-name="SKY Sport 5 NZ" tvg-id="SKY.Sport.5.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/zIRnRJM.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 5 NZ
+https://a1xs.vip/700035
+#EXTINF:-1  tvg-name="SKY Sport 6 NZ" tvg-id="SKY.Sport.6.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/o0Icbjt.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 6 NZ
+https://a1xs.vip/700036
+#EXTINF:-1  tvg-name="SKY Sport 7 NZ" tvg-id="SKY.Sport.7.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/AznJTOJ.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 7 NZ
+https://a1xs.vip/700037
+#EXTINF:-1  tvg-name="UK: Sky Sports Main Event UHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="A1xmedia UHD | 4K" radio="false",UK: Sky Sports Main Event UHD
+https://a1xs.vip/2000015
+#EXTINF:-1  tvg-name="UK: TNT Sports Ultimate UHD" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="A1xmedia UHD | 4K" radio="false",UK: TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
+
+
 
 
 
