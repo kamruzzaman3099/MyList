@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-id="ServusTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD (AT)
-https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 #EXTINF:-1  tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/NRK8Uc6.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 1 NZ
 https://a1xs.vip/700031
 #EXTINF:-1  tvg-name="SKY Sport 2 NZ" tvg-id="SKY.Sport.2.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/IEDwF39.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 2 NZ
@@ -253,6 +251,9 @@ http://cdntv.online/low/9mlxywika2/55.m3u8
 http://cdntv.online/low/9mlxywika2/56.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football" ,Russia Football 3 HD 
 http://cdntv.online/low/9mlxywika2/57.m3u8
+#EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-id="ServusTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD (AT)
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+
 
 
 
