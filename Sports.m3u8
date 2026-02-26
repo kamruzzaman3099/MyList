@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1  tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/NRK8Uc6.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 1 NZ
 https://a1xs.vip/700031
 #EXTINF:-1  tvg-name="SKY Sport 2 NZ" tvg-id="SKY.Sport.2.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/IEDwF39.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 2 NZ
@@ -298,6 +300,7 @@ https://a1xs.vip/9000013
 https://a1xs.vip/4000080
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-name="Eleven Sports 1 4K" tvg-logo="https://i.imgur.com/k6MErsv.png" group-title="UHD | 4K",Eleven Sports 1 4K
 https://a1xs.vip/14001
+
 
 
 
