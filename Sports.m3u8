@@ -142,6 +142,223 @@ https://a1xs.vip/9000013
 https://a1xs.vip/4000080
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-name="Eleven Sports 1 4K" tvg-logo="https://i.imgur.com/k6MErsv.png" group-title="UHD | 4K",Eleven Sports 1 4K
 https://a1xs.vip/14001
+#EXTINF:-1,ID: Sportstar 1 (alpha5)
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919398&extension=ts 
+#EXTINF:-1,ID: Sportstar 4 (alpha5)
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919377&extension=ts 
+#EXTINF:-1,ID: BEINSPORTS 1_alpha5
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919472&extension=ts 
+#EXTINF:-1,ID: BEINSPORTS 2_alpha5
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919471&extension=ts 
+#EXTINF:-1,ID: BEINSPORTS 3_alpha5
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919470&extension=ts 
+#EXTINF:-1,ID: BEINSPORTS 4_alpha5
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919469&extension=ts 
+#EXTINF:-1,ID: BEINSPORTS 5_alpha5
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919468&extension=ts 
+#EXTINF:-1,MAX1_TRUE PREMIER 1_TH
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776175&extension=m3u8 
+#EXTINF:-1,MAX2_TRUE PREMIER 2_TH
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776176&extension=m3u8 
+#EXTINF:-1,TRUE SPORTS 1_TH
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776200&extension=m3u8 
+#EXTINF:-1,TRUE SPORTS 1_ENG
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776197&extension=m3u8 
+#EXTINF:-1,TRUE SPORTS 2_TH
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776192&extension=m3u8
+#EXTINF:-1,ESPN2HD
+http://181.78.82.6:46090/play/a00i/index.m3u8
+#EXTINF:-1,ESPN3HD
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1,ESPN6HD
+http://181.78.82.6:46090/play/a00w/index.m3u8
+#EXTINF:-1,ESPN PREMIUM HD
+http://181.205.130.194:4000/play/a0fk
+#EXTINF:-1,ESPN PREMIUM HD
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+#EXTINF:-1,ESPN5 HD
+http://181.205.130.194:4000/play/a0fs
+#EXTINF:-1,ESPN HD
+http://181.205.130.194:4000/play/a07j
+#EXTINF:-1,WIN SPORTS+
+http://181.205.130.194:4000/play/a0f1
+#EXTINF:-1,WIN SPORTS+ HD
+http://181.205.130.194:4000/play/a0fu
+#EXTINF:-1,Mundial GUA Autorizado
+http://45.5.117.57:8999/play/a0fi/index.m3u8
+#EXTINF:-1,Sky SPORTS La Liga
+http://45.5.117.57:8999/play/a050/index.m3u8
+#EXTINF:-1,Claro Sports 1 HD
+http://45.5.117.57:8999/play/a05m/index.m3u8
+#EXTINF:-1,Claro Sports 2 HD
+http://45.5.117.57:8999/play/a05n/index.m3u8
+#EXTINF:-1,Fox SPORTS 2
+http://45.5.117.57:8999/play/a058/index.m3u8
+#EXTINF:-1,Fox SPORTS 3
+http://45.5.119.43:4000/play/a024/index.m3u8
+#EXTINF:-1,Sky SPORTS Bundesliga
+http://45.5.117.57:8999/play/a0f2/index.m3u8
+#EXTINF:-1,TUDN
+http://45.5.117.57:8999/play/a04t/index.m3u8
+#EXTINF:-1,TUDN2
+http://45.5.117.57:8999/play/a0ef/index.m3u8
+#EXTINF:-1,5
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1,TUDN3
+http://45.5.119.43:4000/play/a05q/index.m3u8
+#EXTINF:-1,TyC SPORTS
+http://205.235.6.29:8000/play/a0oi/index.m3u8
+#EXTINF:-1,DSports
+http://205.235.6.29:8000/play/a0nq/index.m3u8
+#EXTINF:-1,HGTV
+http://205.235.6.29:8000/play/a0qo/index.m3u8
+#EXTINF: -1,Bein Sports 01
+http://kstv.us:8080/live/N427DpynGE/7049166651/12551.ts
+#EXTINF: -1,Bein Sports 02
+http://kstv.us:8080/live/N427DpynGE/7049166651/12552.ts
+#EXTINF: -1,Bein Sports 03
+http://kstv.us:8080/live/N427DpynGE/7049166651/12553.ts
+#EXTINF: -1,Bein Sports 04
+http://kstv.us:8080/live/N427DpynGE/7049166651/12550.ts
+#EXTINF: -1,Bein Sports 05
+http://kstv.us:8080/live/N427DpynGE/7049166651/12549.ts
+#EXTINF: -1,Bein Sports 06
+http://kstv.us:8080/live/N427DpynGE/7049166651/12548.ts 
+#EXTINF: -1,Bein Sports 07
+http://kstv.us:8080/live/N427DpynGE/7049166651/12547.ts
+#EXTINF: -1,Bein Sports 08 News
+http://kstv.us:8080/live/N427DpynGE/7049166651/12546.ts
+#EXTINF: -1,Bein Sports 09 Xtra
+http://kstv.us:8080/live/N427DpynGE/7049166651/12545.ts
+#EXTINF: -1,Bein Sports 10
+http://kstv.us:8080/live/N427DpynGE/7049166651/12554.ts
+#EXTINF: -1,US | ACC Network
+http://kstv.us:8080/live/N427DpynGE/7049166651/46401.ts
+#EXTINF: -1,US | Bein Sports
+http://kstv.us:8080/live/N427DpynGE/7049166651/15922.ts
+#EXTINF: -1,US | Bein Sports En Español''
+http://kstv.us:8080/live/N427DpynGE/7049166651/46352.ts
+#EXTINF: -1,US | Bein Sports Xtra
+http://kstv.us:8080/live/N427DpynGE/7049166651/48383.ts
+#EXTINF: -1,US | ESPN HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/15951.ts
+#EXTINF: -1,US | ESPN 2
+http://kstv.us:8080/live/N427DpynGE/7049166651/15950.ts
+#EXTINF: -1,US | ESPN U
+http://kstv.us:8080/live/N427DpynGE/7049166651/22536.ts
+#EXTINF: -1,US | ESPN U HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/15949.ts
+#EXTINF: -1,BRASIL | ESPN HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/46445.ts
+#EXTINF: -1,BRASIL | ESPN 2
+http://kstv.us:8080/live/N427DpynGE/7049166651/46446.ts
+#EXTINF: -1,BRASIL | ESPN BRASIL HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/46447.ts
+#EXTINF: -1,DEPORTES | ESPN MEXICO
+http://kstv.us:8080/live/N427DpynGE/7049166651/47106.ts
+#EXTINF: -1,DEPORTES | ESPN MEXICO HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47107.ts
+#EXTINF: -1,DEPORTES | ESPN 2 MEXICO
+http://kstv.us:8080/live/N427DpynGE/7049166651/47097.ts
+#EXTINF: -1,DEPORTES | ESPN 2 MEXICO FHD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47098.ts
+#EXTINF: -1,DEPORTES | ESPN 3 MEXICO
+http://kstv.us:8080/live/N427DpynGE/7049166651/47101.ts
+#EXTINF: -1,DEPORTES | ESPN 3 MEXICO HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47102.ts
+#EXTINF: -1,DEPORTES | ESPN NETWORK MEXICO
+http://kstv.us:8080/live/N427DpynGE/7049166651/47108.ts
+#EXTINF: -1,DEPORTES | ESPN PLUS MEXICO
+http://kstv.us:8080/live/N427DpynGE/7049166651/47109.ts
+#EXTINF: -1,DEPORTES | ESPN PLUS MEXICO HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47110.ts
+#EXTINF: -1,DEPORTES | ESPN U MEXICO
+http://kstv.us:8080/live/N427DpynGE/7049166651/47113.ts
+#EXTINF: -1,DEPORTES | ESPN U MEXICO HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47114.ts
+#EXTINF: -1,DEPORTES | ESPN SUR
+http://kstv.us:8080/live/N427DpynGE/7049166651/47111.ts
+#EXTINF: -1,DEPORTES | ESPN 2 SUR
+http://kstv.us:8080/live/N427DpynGE/7049166651/47099.ts
+#EXTINF: -1,DEPORTES | ESPN 2 SUR HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47100.ts
+#EXTINF: -1,DEPORTES | ESPN 3 SUR
+http://kstv.us:8080/live/N427DpynGE/7049166651/47103.ts
+#EXTINF: -1,DEPORTES | ESPN 3 SUR HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47104.ts
+#EXTINF: -1,LAT-A | TYC SPORTS (ARGENTINA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46748.ts
+#EXTINF: -1,LAT-A | TYC SPORTS 1 (ARGENTINA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46749.ts
+#EXTINF: -1,LAT-A | TYC SPORTS HD (ARGENTINA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46750.ts
+#EXTINF: -1,US | Fox Sports 1
+http://kstv.us:8080/live/N427DpynGE/7049166651/22526.ts
+#EXTINF: -1,US | Fox Sports 1 HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/15948.ts
+#EXTINF: -1,US | Fox Sports 2
+http://kstv.us:8080/live/N427DpynGE/7049166651/22525.ts
+#EXTINF: -1,US | Fox Sports 2 HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/15947.ts
+#EXTINF: -1,BRASIL | FOX SPORTS HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/46453.ts
+#EXTINF: -1,BRASIL | FOX SPORTS 2 HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/46454.ts
+#EXTINF: -1,LAT-A | FOX SPORTS PREMIUM (ARGENTINA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46727.ts
+#EXTINF: -1,LAT-A | FOX SPORTS PREMIUM HD (ARGENTINA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46728.ts
+#EXTINF: -1,DEPORTES | Fox Sports Chile HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47126.ts
+#EXTINF: -1 ,DEPORTES | Fox Sports 1 Premium Chile
+http://kstv.us:8080/live/N427DpynGE/7049166651/47117.ts
+#EXTINF: -1,DEPORTES | FOX SPORTS MEXICO
+http://kstv.us:8080/live/N427DpynGE/7049166651/47127.ts
+#EXTINF: -1,DEPORTES | FOX SPORTS MEXICO HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47128.ts
+#EXTINF: -1,DEPORTES | FOX SPORTS 2 MEXICO
+http://kstv.us:8080/live/N427DpynGE/7049166651/47118.ts
+#EXTINF: -1,DEPORTES | FOX SPORTS 2 MEXICO HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47119.ts
+#EXTINF: -1,DEPORTES | FOX SPORTS 3 MEXICO
+http://kstv.us:8080/live/N427DpynGE/7049166651/47122.ts
+#EXTINF: -1,DEPORTES | FOX SPORTS 3 MEXICO HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47123.ts
+#EXTINF: -1,DEPORTES | FOX SPORTS PREMIUM
+http://kstv.us:8080/live/N427DpynGE/7049166651/47129.ts
+#EXTINF: -1, DEPORTES | FOX SPORTS SUR
+http://kstv.us:8080/live/N427DpynGE/7049166651/47130.ts
+#EXTINF: -1,DEPORTES | FOX SPORTS SUR HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47131.ts
+#EXTINF: -1,DEPORTES | FOX SPORTS 2 SUR
+http://kstv.us:8080/live/N427DpynGE/7049166651/47120.ts
+#EXTINF: -1,DEPORTES | FOX SPORTS 2 SUR HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47121.ts
+#EXTINF: -1,DEPORTES | FOX SPORTS 3 SUR
+http://kstv.us:8080/live/N427DpynGE/7049166651/47124.ts
+#EXTINF: -1,DEPORTES | FOX SPORTS 3 SUR HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47125.ts
+#EXTINF: -1,US | FOX DEPORTES
+http://kstv.us:8080/live/N427DpynGE/7049166651/23316.ts
+#EXTINF: -1,LAT-B | BOLIVIA TV Deportes
+http://kstv.us:8080/live/N427DpynGE/7049166651/46754.ts
+#EXTINF: -1,DEPORTES | TUDN
+http://kstv.us:8080/live/N427DpynGE/7049166651/47140.ts
+#EXTINF: -1,DEPORTES | CLARO SPORTS
+http://kstv.us:8080/live/N427DpynGE/7049166651/47091.ts
+#EXTINF: -1,DEPORTES | DIRECTV SPORTS
+http://kstv.us:8080/live/N427DpynGE/7049166651/47092.ts
+#EXTINF: -1,DEPORTES | DIRECTV SPORTS HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47096.ts
+#EXTINF: -1,DEPORTES | DIRECTV SPORTS 2
+http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
+#EXTINF: -1,DEPORTES | DIRECTV SPORTS 2 HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47095.ts
+#EXTINF: -1,DEPORTES | DIRECTV SPORTS + HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47093.ts
+
+
+
 
 
 
