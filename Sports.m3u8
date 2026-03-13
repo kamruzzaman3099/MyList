@@ -1,6 +1,30 @@
 #EXTM3U
 #EXTINF:-1 ,Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id="edge2/tsports" tvg-logo="https://tvassets.roarzone.info/images/102.png" group-title="sports",T Sports
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
+#EXTINF:-1 tvg-id="edge2/star-sports-1" tvg-logo="https://tvassets.roarzone.info/images/25.png" group-title="sports",Star Sports 1
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMQ==&e=.m3u8
+#EXTINF:-1 tvg-id="edge2/star-sports-2" tvg-logo="https://tvassets.roarzone.info/images/26.png" group-title="sports",Star Sports 2
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg==&e=.m3u8
+#EXTINF:-1 tvg-id="edge2/gazi" tvg-logo="https://tvassets.roarzone.info/images/1.png" group-title="sports",Gazi Tv
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvZ2F6aQ==&e=.m3u8
+#EXTINF:-1 tvg-id="edge2/ptv-sports" tvg-logo="https://tvassets.roarzone.info/images/73.png" group-title="sports",Ptv Spotrs
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvcHR2LXNwb3J0cw==&e=.m3u8
+#EXTINF:-1 tvg-id="edge2/a-sports" tvg-logo="https://tvassets.roarzone.info/images/add-sports-1.png" group-title="sports",Asports
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvYS1zcG9ydHM=&e=.m3u8
+#EXTINF:-1 tvg-id="edge2/sony-sports-1-hd" tvg-logo="https://tvassets.roarzone.info/images/20.png" group-title="sports",Sony Ten 1
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc29ueS1zcG9ydHMtMS1oZA==&e=.m3u8
+#EXTINF:-1 tvg-id="edge2/sony-sports-2-hd" tvg-logo="https://tvassets.roarzone.info/images/21.png" group-title="sports",Sony Ten 2
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc29ueS1zcG9ydHMtMi1oZA==&e=.m3u8
+#EXTINF:-1 tvg-id="edge2/sony-sports-3-hd" tvg-logo="https://tvassets.roarzone.info/images/22.png" group-title="sports",Sony Ten 3
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc29ueS1zcG9ydHMtMy1oZA==&e=.m3u8
+#EXTINF:-1 tvg-id="edge2/sony-sports-5-hd" tvg-logo="https://tvassets.roarzone.info/images/24.png" group-title="sports",Sony Six
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc29ueS1zcG9ydHMtNS1oZA==&e=.m3u8
+#EXTINF:-1 tvg-id="edge2/star-sports-select-1" tvg-logo="https://tvassets.roarzone.info/images/27.png" group-title="sports",Star Sports Select 1
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtc2VsZWN0LTE=&e=.m3u8
+#EXTINF:-1 tvg-id="edge2/star-sports-select-2" tvg-logo="https://tvassets.roarzone.info/images/28.png" group-title="sports",Star Sports Select 2
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtc2VsZWN0LTI=&e=.m3u8
 #EXTINF:-1  tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/NRK8Uc6.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 1 NZ
 https://a1xs.vip/700031
 #EXTINF:-1  tvg-name="SKY Sport 2 NZ" tvg-id="SKY.Sport.2.nz" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/IEDwF39.png" group-title="A1xmedia NZ Sports" radio="false",SKY Sport 2 NZ
@@ -118,6 +142,7 @@ https://a1xs.vip/9000013
 https://a1xs.vip/4000080
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-name="Eleven Sports 1 4K" tvg-logo="https://i.imgur.com/k6MErsv.png" group-title="UHD | 4K",Eleven Sports 1 4K
 https://a1xs.vip/14001
+
 
 
 
