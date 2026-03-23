@@ -55,6 +55,16 @@ http://77.137.40.221:8000/play/a01i
 http://77.137.40.221:8000/play/a01j
 #EXTINF:-1 ,BEIN SPORT 6 🇶🇦
 http://77.137.40.221:8000/play/a01k
+#EXTINF:-1 ,Dazn 1 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
+#EXTINF:-1 ,Dazn 2 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
+#EXTINF:-1 ,Dazn 3 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
+#EXTINF:-1 ,Dazn 4 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
+#EXTINF:-1 ,Dazn 5 🇵🇹
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
 #EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="A1xmedia EPL" radio="false",Hub Premier 1 FHD
 https://a1xs.vip/1100041
 #EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="A1xmedia EPL" radio="false",Hub Premier 2 FHD
