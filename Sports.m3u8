@@ -43,6 +43,18 @@ https://a1xs.vip/700037
 https://a1xs.vip/2000015
 #EXTINF:-1  tvg-name="UK: TNT Sports Ultimate UHD" tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="A1xmedia UHD | 4K" radio="false",UK: TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
+#EXTINF:-1 ,BEIN SPORT 1 🇶🇦
+http://77.137.40.221:8000/play/a01e
+#EXTINF:-1 ,BEIN SPORT 2 🇶🇦
+http://77.137.40.221:8000/play/a01g
+#EXTINF:-1 ,BEIN SPORT 3 🇶🇦
+http://77.137.40.221:8000/play/a01h
+#EXTINF:-1 ,BEIN SPORT 4 🇶🇦
+http://77.137.40.221:8000/play/a01i
+#EXTINF:-1 ,BEIN SPORT 5 🇶🇦
+http://77.137.40.221:8000/play/a01j
+#EXTINF:-1 ,BEIN SPORT 6 🇶🇦
+http://77.137.40.221:8000/play/a01k
 #EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="A1xmedia EPL" radio="false",Hub Premier 1 FHD
 https://a1xs.vip/1100041
 #EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="A1xmedia EPL" radio="false",Hub Premier 2 FHD
