@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 ,Sony Sports 2 HD
+https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 #EXTINF:-1 tvg-id="edge2/tsports" tvg-logo="https://tvassets.roarzone.info/images/102.png" group-title="sports",T Sports
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
 #EXTINF:-1 tvg-id="edge2/star-sports-1" tvg-logo="https://tvassets.roarzone.info/images/25.png" group-title="sports",Star Sports 1
