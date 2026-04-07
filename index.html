@@ -1,55 +1,197 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>M3U Player</title>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.6.0/video-js.min.css" rel="stylesheet">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.6.0/video.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.4.12/hls.min.js"></script>
+<meta charset="UTF-8">
+<title>T Sports Live</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #0d0d0d; color: #fff; font-family: Arial, sans-serif; display: flex; flex-direction: column; min-height: 100vh; }
+
+  header { background: #1a1a1a; padding: 12px 20px; display: flex; align-items: center; gap: 12px; border-bottom: 2px solid #e50000; }
+  header h1 { font-size: 1.2rem; color: #fff; }
+  .live-badge { background: #e50000; color: white; padding: 4px 10px; font-weight: bold; border-radius: 4px; font-size: 0.85rem; animation: pulse 1.5s infinite; }
+  @keyframes pulse { 0%,100% { opacity:1 } 50% { opacity:0.5 } }
+
+  .main { display: flex; flex: 1; height: calc(100vh - 52px); }
+
+  .sidebar { width: 280px; min-width: 220px; background: #161616; display: flex; flex-direction: column; border-right: 1px solid #2a2a2a; }
+  .sidebar-header { padding: 12px; border-bottom: 1px solid #2a2a2a; }
+  .sidebar-header input[type="text"] { width: 100%; padding: 8px 10px; background: #222; border: 1px solid #333; border-radius: 6px; color: #fff; font-size: 0.9rem; outline: none; }
+  .sidebar-header input[type="text"]::placeholder { color: #666; }
+  .load-btn { margin-top: 8px; width: 100%; padding: 8px; background: #e50000; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 0.9rem; font-weight: bold; }
+  .load-btn:hover { background: #c00; }
+  .file-label { display: block; margin-top: 6px; width: 100%; padding: 7px; background: #222; color: #aaa; border: 1px dashed #444; border-radius: 6px; cursor: pointer; font-size: 0.82rem; text-align: center; }
+  .file-label:hover { border-color: #e50000; color: #fff; }
+  #fileInput { display: none; }
+
+  .channel-list { flex: 1; overflow-y: auto; padding: 6px 0; }
+  .channel-list::-webkit-scrollbar { width: 5px; }
+  .channel-list::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }
+  .channel-item { padding: 10px 14px; cursor: pointer; border-left: 3px solid transparent; font-size: 0.88rem; color: #ccc; transition: all 0.15s; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .channel-item:hover { background: #222; color: #fff; border-left-color: #e50000; }
+  .channel-item.active { background: #1f1f1f; color: #fff; border-left-color: #e50000; }
+  .empty-msg { padding: 20px; color: #555; font-size: 0.85rem; text-align: center; line-height: 1.6; }
+
+  .player-area { flex: 1; display: flex; flex-direction: column; background: #000; }
+  .video-wrap { flex: 1; display: flex; align-items: center; justify-content: center; position: relative; }
+  video { width: 100%; height: 100%; max-height: calc(100vh - 120px); object-fit: contain; }
+  .now-playing { background: #111; padding: 10px 16px; font-size: 0.88rem; color: #aaa; border-top: 1px solid #222; }
+  .now-playing span { color: #fff; font-weight: bold; }
+  .error-msg { display: none; position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); background: rgba(229,0,0,0.85); padding: 14px 22px; border-radius: 8px; font-size: 0.9rem; text-align: center; }
+
+  @media (max-width: 600px) {
+    .main { flex-direction: column; height: auto; }
+    .sidebar { width: 100%; border-right: none; border-bottom: 1px solid #2a2a2a; max-height: 260px; }
+    video { max-height: 240px; }
+  }
+</style>
 </head>
 <body>
-  <input type="file" id="m3uFile" accept=".m3u,.m3u8">
-  <ul id="playlist"></ul>
-  <video id="player" class="video-js vjs-default-skin" controls width="640" height="360"></video>
 
-  <script>
-    document.getElementById('m3uFile').addEventListener('change', function(e) {
-      const reader = new FileReader();
-      reader.onload = function(event) {
-        const lines = event.target.result.split('\n');
-        const list = document.getElementById('playlist');
-        list.innerHTML = '';
-        let title = '';
+<header>
+  <span class="live-badge">🔴 LIVE</span>
+  <h1>T Sports Live</h1>
+</header>
 
-        lines.forEach(line => {
-          line = line.trim();
-          if (line.startsWith('#EXTINF')) {
-            title = line.split(',')[1] || 'Channel';
-          } else if (line && !line.startsWith('#')) {
-            const li = document.createElement('li');
-            li.textContent = title || line;
-            li.style.cursor = 'pointer';
-            li.addEventListener('click', () => playStream(line));
-            list.appendChild(li);
-            title = '';
-          }
-        });
-      };
-      reader.readAsText(e.target.files[0]);
+<div class="main">
+  <div class="sidebar">
+    <div class="sidebar-header">
+      <input type="text" id="m3uUrl" placeholder="Paste M3U URL here...">
+      <button class="load-btn" onclick="loadFromUrl()">Load Playlist</button>
+      <label class="file-label">
+        📁 Or load local .m3u file
+        <input type="file" id="fileInput" accept=".m3u,.m3u8" onchange="loadFromFile(this)">
+      </label>
+    </div>
+    <div class="channel-list" id="channelList">
+      <div class="channel-item active" id="defaultChannel">📺 T Sports</div>
+      <div class="empty-msg" style="font-size:0.78rem;padding-top:6px;">Load an M3U playlist above<br>to add more channels.</div>
+    </div>
+  </div>
+
+  <div class="player-area">
+    <div class="video-wrap">
+      <video id="video" controls autoplay playsinline></video>
+      <div class="error-msg" id="errorMsg">
+        ⚠️ Stream failed to load.<br>
+        The channel may be offline<br>or blocked by CORS policy.
+      </div>
+    </div>
+    <div class="now-playing" id="nowPlaying">Now Playing: <span>T Sports</span></div>
+  </div>
+</div>
+
+<script>
+  var video = document.getElementById('video');
+  var hlsInstance = null;
+
+  document.getElementById('defaultChannel').addEventListener('click', function() {
+    document.querySelectorAll('.channel-item').forEach(function(el){ el.classList.remove('active'); });
+    this.classList.add('active');
+    playStream('https://mflixott.com/tv/plusbox/live/TSports/index.m3u8', 'T Sports');
+  });
+
+  // Auto-play T Sports on load
+  playStream('https://mflixott.com/tv/plusbox/live/TSports/index.m3u8', 'T Sports');
+
+  function loadFromUrl() {
+    var url = document.getElementById('m3uUrl').value.trim();
+    if (!url) return alert('Please enter an M3U URL.');
+    fetch(url)
+      .then(function(r) { return r.text(); })
+      .then(parseM3U)
+      .catch(function() { alert('Could not load playlist. The server may block CORS.'); });
+  }
+
+  function loadFromFile(input) {
+    var file = input.files[0];
+    if (!file) return;
+    var reader = new FileReader();
+    reader.onload = function(e) { parseM3U(e.target.result); };
+    reader.readAsText(file);
+  }
+
+  function parseM3U(text) {
+    var lines = text.split('\n');
+    var channels = [];
+    var title = '';
+    lines.forEach(function(line) {
+      line = line.trim();
+      if (line.startsWith('#EXTINF')) {
+        var parts = line.split(',');
+        title = parts[1] ? parts[1].trim() : 'Channel';
+      } else if (line && !line.startsWith('#')) {
+        channels.push({ title: title || line, url: line });
+        title = '';
+      }
+    });
+    renderChannels(channels);
+  }
+
+  function renderChannels(channels) {
+    var list = document.getElementById('channelList');
+    if (!channels.length) {
+      list.innerHTML = '<div class="empty-msg">No channels found in playlist.</div>';
+      return;
+    }
+    list.innerHTML = '';
+
+    var search = document.createElement('input');
+    search.type = 'text';
+    search.placeholder = '🔍 Search channels...';
+    search.style.cssText = 'width:calc(100% - 20px);margin:8px 10px;padding:7px 10px;background:#222;border:1px solid #333;border-radius:6px;color:#fff;font-size:0.85rem;outline:none;display:block;';
+    list.appendChild(search);
+
+    var ul = document.createElement('div');
+    list.appendChild(ul);
+
+    channels.forEach(function(ch, i) {
+      var item = document.createElement('div');
+      item.className = 'channel-item';
+      item.textContent = (i + 1) + '. ' + ch.title;
+      item.title = ch.url;
+      item.addEventListener('click', function() {
+        document.querySelectorAll('.channel-item').forEach(function(el){ el.classList.remove('active'); });
+        item.classList.add('active');
+        playStream(ch.url, ch.title);
+      });
+      ul.appendChild(item);
     });
 
-    function playStream(url) {
-      const video = document.getElementById('player');
-      if (Hls.isSupported()) {
-        const hls = new Hls();
-        hls.loadSource(url);
-        hls.attachMedia(video);
-        video.play();
-      } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-        video.src = url;
-        video.play();
-      }
+    search.addEventListener('input', function() {
+      var q = this.value.toLowerCase();
+      ul.querySelectorAll('.channel-item').forEach(function(el) {
+        el.style.display = el.textContent.toLowerCase().includes(q) ? '' : 'none';
+      });
+    });
+
+    ul.firstChild.classList.add('active');
+    playStream(channels[0].url, channels[0].title);
+  }
+
+  function playStream(url, title) {
+    document.getElementById('errorMsg').style.display = 'none';
+    document.getElementById('nowPlaying').innerHTML = 'Now Playing: <span>' + (title || url) + '</span>';
+
+    if (hlsInstance) { hlsInstance.destroy(); hlsInstance = null; }
+
+    if (Hls.isSupported()) {
+      hlsInstance = new Hls({ enableWorker: true });
+      hlsInstance.loadSource(url);
+      hlsInstance.attachMedia(video);
+      hlsInstance.on(Hls.Events.ERROR, function(e, data) {
+        if (data.fatal) document.getElementById('errorMsg').style.display = 'block';
+      });
+      hlsInstance.on(Hls.Events.MANIFEST_PARSED, function() { video.play(); });
+    } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      video.src = url;
+      video.play();
+    } else {
+      document.getElementById('errorMsg').style.display = 'block';
     }
-  </script>
+  }
+</script>
 </body>
 </html>
