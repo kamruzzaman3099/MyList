@@ -2,28 +2,54 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Live Match Streaming</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-  <style>
-    body { margin: 0; background: black; display: flex; justify-content: center; align-items: center; height: 100vh; }
-    video { width: 100%; max-width: 1000px; border-radius: 10px; }
-    .live { position: absolute; top: 10px; left: 10px; background: red; color: white; padding: 5px 10px; font-weight: bold; border-radius: 5px; }
-  </style>
+  <title>M3U Player</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.6.0/video-js.min.css" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.6.0/video.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.4.12/hls.min.js"></script>
 </head>
 <body>
-<div class="live">🔴 LIVE</div>
-<video id="video" controls autoplay></video>
-<script>
-  var video = document.getElementById('video');
-  var videoSrc = "https://tv.roarzone.info/";
-  if (Hls.isSupported()) {
-    var hls = new Hls();
-    hls.loadSource(videoSrc);
-    hls.attachMedia(video);
-  } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-    video.src = videoSrc;
-  }
-</script>
+  <input type="file" id="m3uFile" accept=".m3u,.m3u8">
+  <ul id="playlist"></ul>
+  <video id="player" class="video-js vjs-default-skin" controls width="640" height="360"></video>
+
+  <script>
+    document.getElementById('m3uFile').addEventListener('change', function(e) {
+      const reader = new FileReader();
+      reader.onload = function(event) {
+        const lines = event.target.result.split('\n');
+        const list = document.getElementById('playlist');
+        list.innerHTML = '';
+        let title = '';
+
+        lines.forEach(line => {
+          line = line.trim();
+          if (line.startsWith('#EXTINF')) {
+            title = line.split(',')[1] || 'Channel';
+          } else if (line && !line.startsWith('#')) {
+            const li = document.createElement('li');
+            li.textContent = title || line;
+            li.style.cursor = 'pointer';
+            li.addEventListener('click', () => playStream(line));
+            list.appendChild(li);
+            title = '';
+          }
+        });
+      };
+      reader.readAsText(e.target.files[0]);
+    });
+
+    function playStream(url) {
+      const video = document.getElementById('player');
+      if (Hls.isSupported()) {
+        const hls = new Hls();
+        hls.loadSource(url);
+        hls.attachMedia(video);
+        video.play();
+      } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = url;
+        video.play();
+      }
+    }
+  </script>
 </body>
 </html>
