@@ -15,6 +15,10 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98870.ts
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/211.ts
 #EXTINF:-1 ,Star Sports 2 Hindi
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/213049.ts
+#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willow.png", Willow Cricket 
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/215.ts
+#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="http://image.5gtv.online/logo/sports/willowxtra.png", Willow 2
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/675820.ts
 #EXTINF:-1 ,Bein Sports 1
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
 #EXTINF:-1 ,Bein Sports 2
