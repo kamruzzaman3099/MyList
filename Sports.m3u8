@@ -47,6 +47,18 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652321.ts
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652322.ts
 #EXTINF:-1 ,Bein Sports 14
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652323.ts
+
+#EXTINF:-1 tvg-logo="https://iili.io/3DPQBC7.png" group-title="Sports", TNT Sports 1 
+http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6566/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/3OKhGKg.png" group-title="Sports", TNT Sports 2 
+http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/2506/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/3DPQCG9.png" group-title="Sports", TNT Sports 3 
+http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6564/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/3DPQfQS.png" group-title="Sports", TNT Sports 4
+http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19054/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="edge2/tsports" tvg-logo="https://tvassets.roarzone.info/images/102.png" group-title="sports",T Sports
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
 #EXTINF:-1 tvg-id="edge2/star-sports-1" tvg-logo="https://tvassets.roarzone.info/images/25.png" group-title="sports",Star Sports 1
