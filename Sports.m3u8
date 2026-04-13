@@ -9,6 +9,10 @@ https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
 https://mflixott.com/tv/plusbox/live/StarSports1HD/index.m3u8
 #EXTINF:-1 ,Star Sports 2
 https://mflixott.com/tv/plusbox/live/StarSports2HD/index.m3u8
+#EXTINF:-1 ,Star Sports Select 1
+https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
+#EXTINF:-1 ,Star Sports Select 2
+https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 #EXTINF:-1 ,Sony Ten 1
 https://mflixott.com/tv/plusbox/live/SonyTen1HD/index.m3u8
 #EXTINF:-1 ,Sony Ten 2
