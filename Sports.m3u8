@@ -1,8 +1,18 @@
 #EXTM3U
 #EXTINF:-1 ,Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 ,T Sports HD
+#EXTINF:-1 ,T Sports
 https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+#EXTINF:-1 ,T Sports HD
+https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
+#EXTINF:-1 ,Star Sports 1
+https://mflixott.com/tv/plusbox/live/StarSports1HD/index.m3u8
+#EXTINF:-1 ,Star Sports 2
+https://mflixott.com/tv/plusbox/live/StarSports2HD/index.m3u8
+#EXTINF:-1 ,Sony Ten 1
+https://mflixott.com/tv/plusbox/live/SonyTen1HD/index.m3u8
+#EXTINF:-1 ,Sony Ten 2
+https://mflixott.com/tv/plusbox/live/SonyTen1HD/index.m3u8
 #EXTINF:-1 ,Sony Sports 1
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/9402.ts
 #EXTINF:-1 ,Sony Sports 2
