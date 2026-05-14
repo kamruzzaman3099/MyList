@@ -147,3 +147,21 @@ http://205.235.6.29:8000/play/a0pz/index.m3u8
 http://181.205.130.194:4000/play/a0fs
 #EXTINF:-1,ESPN HD
 http://181.205.130.194:4000/play/a07j
+
+#EXTINF:-1,SKY Cricket
+http://premimum.online/live/jen12345/jen54321/114479.ts
+#EXTINF:-1,SKY Football
+http://premimum.online/live/jen12345/jen54321/19.ts
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]|4k
+http://premimum.online/live/jen12345/jen54321/703299.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="Sports",Willow 
+http://premimum.online/live/jen12345/jen54321/215.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR SPORTS 2" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-2-hd-in.png" group-title="Sports",STAR SPORTS 2
+http://premimum.online/live/jen12345/jen54321/703297.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-1-hd-in.png" group-title="Sports",SONY SPORTS 1HD
+http://premimum.online/live/jen12345/jen54321/154.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Sports",SONY SPORTS 2 HD
+http://premimum.online/live/jen12345/jen54321/31314.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="Sports",SONY SPORTS 5 HD
+http://premimum.online/live/jen12345/jen54321/176.ts
+
