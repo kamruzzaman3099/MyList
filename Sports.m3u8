@@ -1,22 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 ,T Sports
-https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
-#EXTINF:-1 ,T Sports HD
-https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
-#EXTINF:-1 ,Star Sports 1
-https://mflixott.com/tv/plusbox/live/StarSports1HD/index.m3u8
-#EXTINF:-1 ,Star Sports 2
-https://mflixott.com/tv/plusbox/live/StarSports2HD/index.m3u8
-#EXTINF:-1 ,Star Sports Select 1
-https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
-#EXTINF:-1 ,Star Sports Select 2
-https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
-#EXTINF:-1 ,Sony Ten 1
-https://mflixott.com/tv/plusbox/live/SonyTen1HD/index.m3u8
-#EXTINF:-1 ,Sony Ten 2
-https://mflixott.com/tv/plusbox/live/SonyTen2HD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/3DPQBC7.png" group-title="Sports", TNT Sports 1 
@@ -38,20 +22,6 @@ http://cdntv.online/low/9mlxywika2/56.m3u8
 http://cdntv.online/low/9mlxywika2/57.m3u8
 #EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-id="ServusTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD (AT)
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
-#EXTINF:-1,ID: Sportstar 1 (alpha5)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919398&extension=ts 
-#EXTINF:-1,ID: Sportstar 4 (alpha5)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919377&extension=ts 
-#EXTINF:-1,ID: BEINSPORTS 1_alpha5
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919472&extension=ts 
-#EXTINF:-1,ID: BEINSPORTS 2_alpha5
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919471&extension=ts 
-#EXTINF:-1,ID: BEINSPORTS 3_alpha5
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919470&extension=ts 
-#EXTINF:-1,ID: BEINSPORTS 4_alpha5
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919469&extension=ts 
-#EXTINF:-1,ID: BEINSPORTS 5_alpha5
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919468&extension=ts 
 #EXTINF:-1,ESPN2HD
 http://181.78.82.6:46090/play/a00i/index.m3u8
 #EXTINF:-1,ESPN3HD
@@ -66,121 +36,6 @@ http://205.235.6.29:8000/play/a0pz/index.m3u8
 http://181.205.130.194:4000/play/a0fs
 #EXTINF:-1,ESPN HD
 http://181.205.130.194:4000/play/a07j
-
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN: STAR SPORTS 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 1 (4K).
-http://premimum.online/live/Jen12345/Jen54321/98864.ts
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN: STAR SPORTS 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 2 (4K).
-http://premimum.online/live/Jen12345/Jen54321/98865.ts
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 HINDI (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 1 HINDI (4K).
-http://premimum.online/live/Jen12345/Jen54321/98866.ts
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN: STAR SPORTS SELECT 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS SELECT 1 (4K).
-http://premimum.online/live/Jen12345/Jen54321/98867.ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN: START SPORTS SELECT 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: START SPORTS SELECT 2 (4K).
-http://premimum.online/live/Jen12345/Jen54321/98868.ts
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN: TEN 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: TEN 1 (4K).
-http://premimum.online/live/Jen12345/Jen54321/98861.ts
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN: TEN 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: TEN 2 (4K).
-http://premimum.online/live/Jen12345/Jen54321/98862.ts
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN: TEN 3 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: TEN 3 (4K).
-http://premimum.online/live/Jen12345/Jen54321/98863.ts
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN: SONY TEN 5 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: SONY TEN 5 (4K).
-http://premimum.online/live/Jen12345/Jen54321/98870.ts
-#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="CRIC || FOX CRIC 501 ᴴᴰ" tvg-logo="http://greenpa1.com/fox.png" group-title="CRICKET",CRIC || FOX CRIC 501 ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/1856.ts
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="CRIC || SUPERSPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ssc.png" group-title="CRICKET",CRIC || SUPERSPORTS ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/158442.ts
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="CRIC || SUPERSPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ssc.png" group-title="CRICKET",CRIC || SUPERSPORTS ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/2496.ts
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ᴴᴰ" tvg-logo="http://greenpa1.com/skycricket.png" group-title="CRICKET",CRIC || SKY SPORTS CRIC ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/12.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || SKY SPORTS CRIC ⁴ᵏ
-http://premimum.online/live/Jen12345/Jen54321/23566.ts
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || SKY SPORTS CRIC ⁴ᵏ
-http://premimum.online/live/Jen12345/Jen54321/114479.ts
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || SKY SPORTS CRIC ⁴ᵏ
-http://premimum.online/live/Jen12345/Jen54321/124269.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || ASTRO CRICKET ᴴᴰ" tvg-logo="http://greenpa1.com/astrocricket.png" group-title="CRICKET",CRIC || ASTRO CRICKET ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/2494.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/willow.png" group-title="CRICKET",CRIC || WILLOW SPORTS ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/215.ts
-#EXTINF:-1 tvg-id="shemaroo.in" tvg-name="CRIC || WILLOW SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/willow.png" group-title="CRICKET",CRIC || WILLOW SPORTS ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/23943.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW 2 ᴴᴰ" tvg-logo="http://greenpa1.com/willowxtra.png" group-title="CRICKET",CRIC || WILLOW 2 ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/5040.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 1" tvg-logo="http://starapk1.com/logo/rugby.png" group-title="SPORTS | RUGBY",TNT SPORT 1
-http://premimum.online/live/Jen12345/Jen54321/23564.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 2." tvg-logo="http://starapk1.com/logo/rugby.png" group-title="SPORTS | RUGBY",TNT SPORT 2.
-http://premimum.online/live/Jen12345/Jen54321/23565.ts
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="CRIC || TNT SPORTS 3 ᶠᴴᴰ" tvg-logo="http://greenpa1.com/tntsports.png" group-title="CRICKET",CRIC || TNT SPORTS 3 ᶠᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/148090.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || PTV SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="CRICKET",CRIC || PTV SPORTS ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/89.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || PTV SPORTS ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || PTV SPORTS ⁴ᵏ
-http://premimum.online/live/Jen12345/Jen54321/61674.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || A SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/R7Knx3z/unnamed.png" group-title="CRICKET",CRIC || A SPORTS ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/43444.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || A SPORTS ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || A SPORTS ⁴ᵏ
-http://premimum.online/live/Jen12345/Jen54321/43447.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || GEO SUPER ᴴᴰ" tvg-logo="http://greenpa1.com/geosuper.png" group-title="CRICKET",CRIC || GEO SUPER ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/101.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || TEN SPORTS ᴴᴰ" tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="CRICKET",CRIC || TEN SPORTS ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/98.ts
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="CRIC || STAR SPORTS 1 ENG ᴴᴰ" tvg-logo="http://greenpa1.com/starsports1.png" group-title="CRICKET",CRIC || STAR SPORTS 1 ENG ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/148.ts
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="CRIC || STAR SPORTS 1 ENG ᶠᴴᴰ" tvg-logo="http://greenpa1.com/starsports1.png" group-title="CRICKET",CRIC || STAR SPORTS 1 ENG ᶠᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/9397.ts
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="CRIC || STAR SPORTS 1 ENG ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || STAR SPORTS 1 ENG ⁴ᵏ
-http://premimum.online/live/Jen12345/Jen54321/124281.ts
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ" tvg-logo="http://greenpa1.com/starsports2.png" group-title="CRICKET",CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/239.ts
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="CRIC || STAR SPORTS 2 ENGLISH ᶠᴴᴰ" tvg-logo="http://greenpa1.com/starsports2.png" group-title="CRICKET",CRIC || STAR SPORTS 2 ENGLISH ᶠᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/9398.ts
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="CRIC || STAR SPORTS 2 ENGLISH ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || STAR SPORTS 2 ENGLISH ⁴ᵏ
-http://premimum.online/live/Jen12345/Jen54321/124284.ts
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="CRIC || STAR SPORTS 1 HINDI ᴴᴰ" tvg-logo="http://greenpa1.com/ssh1.png" group-title="CRICKET",CRIC || STAR SPORTS 1 HINDI ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/211.ts
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="CRIC || STAR SPORTS 1 HINDI ᶠᴴᴰ" tvg-logo="http://greenpa1.com/ssh1.png" group-title="CRICKET",CRIC || STAR SPORTS 1 HINDI ᶠᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/9399.ts
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="CRIC || STAR SPORTS 1 HINDI ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || STAR SPORTS 1 HINDI ⁴ᵏ
-http://premimum.online/live/Jen12345/Jen54321/124287.ts
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="CRIC || STAR SPORTS SELECT 1 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="CRICKET",CRIC || STAR SPORTS SELECT 1 ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/238.ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="CRIC || STAR SPORTS SELECT 2 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET",CRIC || STAR SPORTS SELECT 2 ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/148801.ts
-#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ
-http://premimum.online/live/Jen12345/Jen54321/9722.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || STAR SPORTS 1 TELUGU ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || STAR SPORTS 1 TELUGU ⁴ᵏ
-http://premimum.online/live/Jen12345/Jen54321/177843.ts
-#EXTINF:-1 tvg-id="starsports3.in" tvg-name="CRIC || STAR SPORTS 3 ᴴᴰ" tvg-logo="http://greenpa1.com/ss3.png" group-title="CRICKET",CRIC || STAR SPORTS 3 ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/1080.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || T SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/34FSKYK/images.png" group-title="CRICKET",CRIC || T SPORTS ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/18452.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || T SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/34FSKYK/images.png" group-title="CRICKET",CRIC || T SPORTS ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/130714.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || RTA SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/rta.png" group-title="CRICKET",CRIC || RTA SPORTS ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/1039.ts
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRIC || SONY SPORTS 1 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten1.png" group-title="CRICKET",CRIC || SONY SPORTS 1 ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/154.ts
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY Ten 2 HD" tvg-logo="http://starapk1.com/logo/football.png" group-title="FOOTBALL",SONY Ten 2 HD
-http://premimum.online/live/Jen12345/Jen54321/192.ts
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRIC || SONY SPORTS 2 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten2.png" group-title="CRICKET",CRIC || SONY SPORTS 2 ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/31314.ts
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="CRIC || SONY SPORTS 3 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten3.png" group-title="CRICKET",CRIC || SONY SPORTS 3 ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/146.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || SONY SPORTS 4 TAMIL" tvg-logo="http://greenpa1.com/sonyten4.png" group-title="CRICKET",CRIC || SONY SPORTS 4 TAMIL
-http://premimum.online/live/Jen12345/Jen54321/29469.ts
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="CRIC || SONY SPORTS 5 ᴴᴰ" tvg-logo="https://i.ibb.co/3NGPRb1/Sony-Sports-Ten-5.png" group-title="CRICKET",CRIC || SONY SPORTS 5 ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/176.ts
-#EXTINF:-1 tvg-id="sonyespnhd.in" tvg-name="CRI: SONY ESPN HD" tvg-logo="https://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png" group-title="CRICKET",CRI: SONY ESPN HD
-http://premimum.online/live/Jen12345/Jen54321/155.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || SKY SPORT 1 ᶠᴴᴰ" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="CRICKET",CRIC || SKY SPORT 1 ᶠᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/150854.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRIC || SKY SPORT 3 ᶠᴴᴰ" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="CRICKET",CRIC || SKY SPORT 3 ᶠᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/24018.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRI: ATN Plus Cricket" tvg-logo="https://i.ibb.co/PtxbFbk/Cricket-Plus-tr.png" group-title="CRICKET",CRI: ATN Plus Cricket
-http://premimum.online/live/Jen12345/Jen54321/85829.ts
-#EXTINF:-1 tvg-id="dsport.in" tvg-name="CRIC || EUROSPORTS ᴴᴰ" tvg-logo="https://static.epg.best/no/Eurosport1.no.png" group-title="CRICKET",CRIC || EUROSPORTS ᴴᴰ
-http://premimum.online/live/Jen12345/Jen54321/216.ts
 
 
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
