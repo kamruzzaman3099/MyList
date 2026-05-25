@@ -37,6 +37,27 @@ http://77.46.130.252:99/maxsport3
 #EXTINF:-1 ,MAX SPORT 4 🇧🇬
 http://77.46.130.252:99/maxsport4
 
+#EXTINF:-1 tvg-name="Al Kass 1" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+
+#EXTINF:-1 tvg-name="Al Kass 2" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+
+#EXTINF:-1 tvg-name="Al Kass 3" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+
+#EXTINF:-1 tvg-name="Al Kass 4" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+
+#EXTINF:-1 tvg-name="Al Kass 5" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+
+#EXTINF:-1 tvg-name="Al Kass 6" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+
+#EXTINF:-1 tvg-name="Al Kass 7" tvg-logo="https://play-lh.googleusercontent.com/wN50iu-0d0CAHBD4ZZwJO-z9BQSNh5MVKbjiwswGG3FQsCm5NRyJZjN8mFQPceC_IB0=w240-h480-rw" group-title="FIFA World Cup 2026",Al Kass 7
+https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+
 #EXTINF:-1 ,Bein Sport 1 🇫🇷
 http://99.27.51.147:8080/BeinSport/index.m3u8
 #EXTINF:-1 ,Bein Sport 2 🇫🇷
@@ -46,6 +67,10 @@ http://99.27.51.147:8080/BeinSport3/index.m3u8
 
 #EXTINF:-1 ,CANAL + Sport 🇫🇷
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="TYC Sports" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",TYC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
 
 #EXTINF:-1 ,ESPN 🇦🇷
 http://45.173.74.2:2010/play/a08a/index.m3u8
