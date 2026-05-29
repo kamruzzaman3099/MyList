@@ -11,6 +11,17 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-name="HT Spor (Turkey)" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",HT Spor Turkey
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 
+#EXTINF:-1 ,Dazn Eleven 1
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:-1 ,Dazn Eleven 2
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+#EXTINF:-1 ,Dazn Eleven 3
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#EXTINF:-1 ,Dazn Eleven 4
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+#EXTINF:-1 ,Dazn Eleven 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iili.io/3DPQBC7.png" group-title="Sports", TNT Sports 1 
 http://qe7abbli.megatv.fun/iptv/LBHN7YM3AWPMFD8DNH6SD3GR/6566/index.m3u8
@@ -30,6 +41,15 @@ http://cdntv.online/low/9mlxywika2/55.m3u8
 http://cdntv.online/low/9mlxywika2/56.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Russia Football 3 HD 
 http://cdntv.online/low/9mlxywika2/57.m3u8
+
+#EXTINF:-1 ,BeIN Sport 1 HD 
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 ,BeIN Sport 2 HD 
+http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 ,BeIN Sport 3 HD 
+http://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 ,BeIN Sport 4 HD 
+http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
 
 #EXTINF:-1 ,MAX SPORT 1 🇧🇬
 http://77.46.130.252:99/maxsport1
@@ -70,11 +90,15 @@ http://99.27.51.147:8080/BeinSport3/index.m3u8
 
 #EXTINF:-1 ,CANAL + Sport 🇫🇷
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 ,Canal+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="TYC Sports" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",TYC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 
+#EXTINF:-1 ,21:30 | Castellon - Cadiz | İspanya La Liga 2
+https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 ,ESPN 🇦🇷
 http://45.173.74.2:2010/play/a08a/index.m3u8
 #EXTINF:-1 ,ESPN 2 🇦🇷
@@ -105,6 +129,17 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 ,ARENA SPORT 2 🇨🇿
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+
+#EXTINF:-1 ,BeIN Sport 1 HD 
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 ,BeIN Sport 2 HD 
+http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 ,BeIN Sport 3 HD 
+http://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 ,BeIN Sport 4 HD 
+http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 ,Bein Sport 3 🇫🇷
+http://145.239.5.177:80/559/index.m3u8
 
 
 
