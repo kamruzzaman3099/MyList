@@ -303,4 +303,7 @@ https://jmp2.uk/rok-bc932f13c31e542db6e3e6247e7131bc.m3u8
 #EXTINF:-1 channel-id="909b135136a1567eaf3f65fb64988323" tvg-id="909b135136a1567eaf3f65fb64988323" tvg-chno="930" tvg-name="beIN SPORTS Xtra en Español" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" group-title="Sports",beIN SPORTS Xtra en Español
 https://jmp2.uk/rok-909b135136a1567eaf3f65fb64988323.m3u8
 
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
+
 
