@@ -41,6 +41,16 @@ http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19054/index.m3u8
 #EXTINF:-1 ,TNT SPORTS PREMIUM 🇬🇧
 http://200.115.120.1:8000/play/ca040/index.m3u8
 
+#EXTINF:-1 tvg-chno="106" tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="TV",Premier Sports 1
+http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/376
+#EXTINF:-1 tvg-chno="106" tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="TV",Premier Sports 1
+http://realsport.scalecdn.co:8080/live/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/89089.ts
+#EXTINF:-1 tvg-chno="108" tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="TV",Premier Sports 2
+http://realsport.scalecdn.co:8080/live/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/89090.ts
+
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Football", Russia Football 1 HD 
 http://cdntv.online/low/9mlxywika2/55.m3u8
