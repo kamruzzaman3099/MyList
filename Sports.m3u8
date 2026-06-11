@@ -50,6 +50,7 @@ http://cdntv.online/low/9mlxywika2/56.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Russia Football 3 HD 
 http://cdntv.online/low/9mlxywika2/57.m3u8
 
+
 #EXTINF:-1 ,BeIN Sport 1 HD 
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 ,BeIN Sport 2 HD 
@@ -143,25 +144,6 @@ http://live.balajibroadband.com:3500/live/892.m3u8
 http://live.balajibroadband.com:3500/live/155.m3u8
 #EXTINF:-1 ,JIO LIV
 http://live.balajibroadband.com:3500/live/889.m3u8
-
-#EXTINF:-1,SONY SPORTS 1HD
-http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
-#EXTINF:-1,SONY SPORTS 2HD
-http://stalker.hakunamata.workers.dev/play/1103/index.m3u8
-#EXTINF:-1,SONY SPORTS 3HD
-http://stalker.hakunamata.workers.dev/play/1104/index.m3u8
-#EXTINF:-1,SONY SPORTS 4HD
-http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://stalker.hakunamata.workers.dev/play/1088/index.m3u8
-#EXTINF:-1,Star Sports 2 HD
-http://stalker.hakunamata.workers.dev/play/1446/index.m3u8
-#EXTINF:-1 ,PTV SPORTS HD
-http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
-#EXTINF:-1 ,GIO SPORTS HD
-http://stalker.hakunamata.workers.dev/play/1100/index.m3u8
-#EXTINF:-1 ,A SPORTS HD
-http://stalker.hakunamata.workers.dev/play/2427/index.m3u8
 
 
 
