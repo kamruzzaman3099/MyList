@@ -297,16 +297,29 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 ,Somoy TV HD
 http://starhub.pro/live/farhat-3379/67897-913379/422.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Go 3 Sports
-http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18003/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/TSN1_HD.svg",TSN 1
+http://stalker.hakunamata.workers.dev/play/258/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/TSN2_HD_New.svg",TSN 2
+http://stalker.hakunamata.workers.dev/play/259/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/TSN3_HD.svg",TSN 3
+http://stalker.hakunamata.workers.dev/play/260/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/TSN4_HD.svg",TSN 4
+http://stalker.hakunamata.workers.dev/play/261/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/TSN5_HD.svg",TSN 5
+http://stalker.hakunamata.workers.dev/play/262/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", World Cup Fox
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png" group-title="FIFA Live",Unite Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 #EXTINF:-1 ,Unite Sports 2Hd
 http://starhub.pro/live/Anthony2/Anthony123/745202.ts
-#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co.com/7xgrmMQ7/1000284130.png" group-title="FIFA Live",FIFA+
-https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260604T024843.m3u8
+#EXTINF:-1 tvg-name="Football World Cup 2026" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Super Sports",Football World Cup
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 #EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png" group-title="FIFA Live",Bein Sports 1
 http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 #EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co/4ZLsq041/1000284329.png" group-title="FIFA Live",Bein Sports 2
