@@ -97,10 +97,30 @@ https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",FOX
 http://84.17.50.102/fox/index.m3u8
 
+#EXTINF:-1 ,Unite Sports 2Hd
+http://starhub.pro/live/Anthony2/Anthony123/745202.ts
+#EXTINF:-1 tvg-name="Football World Cup 2026" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Super Sports",Football World Cup
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png" group-title="FIFA Live",Bein Sports 1
+http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co/4ZLsq041/1000284329.png" group-title="FIFA Live",Bein Sports 2
+http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co/gFfrc99J/1000284330.png" group-title="FIFA Live",Bein Sports 3
+http://starhub.pro/live/farhat-3379/67897-913379/744525.ts
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co/mFTH5Vnb/1000284331.png" group-title="FIFA Live",Bein Sports 4
+http://starhub.pro/live/farhat-3379/67897-913379/744526.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",UHD ▎Fussball Tv
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",UHD ▎Now Tv
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+#EXTINF:-1 tvg-id="" tvg-name="UHD ▎SKY SPORTS MAIN EVENT [UK]" tvg-logo="" group-title="REAL 4K (2160P)",UHD ▎SKY SPORTS MAIN EVENT 
+http://starhub.pro/live/Anthony2/Anthony123/581305.ts
+#EXTINF:-1 tvg-id="" tvg-name="UHD ▎SKY SPORTS F1 [UK]" tvg-logo="" group-title="REAL 4K (2160P)",UHD ▎SKY SPORTS F1
+http://starhub.pro/live/Anthony2/Anthony123/581306.ts
+#EXTINF:-1 tvg-id="" tvg-name="UHD ▎SKY SPORTS 1 [UK]" tvg-logo="" group-title="REAL 4K (2160P)",UHD ▎SKY SPORTS 1
+http://starhub.pro/live/Anthony2/Anthony123/581307.ts
+#EXTINF:-1 ,Somoy TV HD
+http://starhub.pro/live/farhat-3379/67897-913379/422.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png"  group-title="World_Cup",Unite8 Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
