@@ -197,3 +197,66 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1797/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1798/output/index.m3u8
 #EXTINF:-1 ,99
 https://owrcovcrpy.gpcdn.net/bpk-tv/1799/output/index.m3u8
+#EXTINF:-1 ,BTV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 ,Somoy TV HD
+http://starhub.pro/live/farhat-3379/67897-913379/422.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/TSN1_HD.svg",TSN 1
+http://stalker.hakunamata.workers.dev/play/258/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/TSN2_HD_New.svg",TSN 2
+http://stalker.hakunamata.workers.dev/play/259/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/TSN3_HD.svg",TSN 3
+http://stalker.hakunamata.workers.dev/play/260/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/TSN4_HD.svg",TSN 4
+http://stalker.hakunamata.workers.dev/play/261/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/TSN5_HD.svg",TSN 5
+http://stalker.hakunamata.workers.dev/play/262/index.m3u8
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png" group-title="FIFA Live",Unite Sports 1 HD
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1 ,Unite Sports 2Hd
+http://starhub.pro/live/Anthony2/Anthony123/745202.ts
+#EXTINF:-1 tvg-name="Football World Cup 2026" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Super Sports",Football World Cup
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png" group-title="FIFA Live",Bein Sports 1
+http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co/4ZLsq041/1000284329.png" group-title="FIFA Live",Bein Sports 2
+http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co/gFfrc99J/1000284330.png" group-title="FIFA Live",Bein Sports 3
+http://starhub.pro/live/farhat-3379/67897-913379/744525.ts
+#EXTINF:-1 tvg-name="FIFA WORLD CUP 2026" tvg-logo="https://i.ibb.co/mFTH5Vnb/1000284331.png" group-title="FIFA Live",Bein Sports 4
+http://starhub.pro/live/farhat-3379/67897-913379/744526.ts
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",UHD ▎Fussball Tv
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",UHD ▎Now Tv
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+#EXTINF:-1 tvg-id="" tvg-name="UHD ▎SKY SPORTS MAIN EVENT [UK]" tvg-logo="" group-title="REAL 4K (2160P)",UHD ▎SKY SPORTS MAIN EVENT 
+http://starhub.pro/live/Anthony2/Anthony123/581305.ts
+#EXTINF:-1 tvg-id="" tvg-name="UHD ▎SKY SPORTS F1 [UK]" tvg-logo="" group-title="REAL 4K (2160P)",UHD ▎SKY SPORTS F1
+http://starhub.pro/live/Anthony2/Anthony123/581306.ts
+#EXTINF:-1 tvg-id="" tvg-name="UHD ▎SKY SPORTS 1 [UK]" tvg-logo="" group-title="REAL 4K (2160P)",UHD ▎SKY SPORTS 1
+http://starhub.pro/live/Anthony2/Anthony123/581307.ts
+#EXTINF:-1 ,BTV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 ,Somoy TV HD
+http://starhub.pro/live/farhat-3379/67897-913379/422.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/TSN1_HD.svg",TSN 1
+http://stalker.hakunamata.workers.dev/play/258/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/TSN2_HD_New.svg",TSN 2
+http://stalker.hakunamata.workers.dev/play/259/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/TSN3_HD.svg",TSN 3
+http://stalker.hakunamata.workers.dev/play/260/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/TSN4_HD.svg",TSN 4
+http://stalker.hakunamata.workers.dev/play/261/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/TSN5_HD.svg",TSN 5
+http://stalker.hakunamata.workers.dev/play/262/index.m3u8
+
