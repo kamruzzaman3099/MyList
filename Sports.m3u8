@@ -5,14 +5,6 @@ https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="ORFSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ORF_Sport_%2B_Logo_2024.svg/2560px-ORF_Sport_%2B_Logo_2024.svg.png",FB | ORF Sport+ HD
 http://212.186.45.34:9981/stream/channelid/906723447?profile=pass
 
-#EXTINF:-1 ,CAZE TV 1 HD🇧🇷
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 ,Test
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-
-
-
 
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="CRIC || TNT SPORTS 1 ᶠᴴᴰ" tvg-logo="http://greenpa1.com/tntsports.png" group-title="CRICKET",CRIC || TNT SPORTS 1 ᶠᴴᴰ
 http://starhub.pro/live/Anthony2/Anthony123/186627.ts
@@ -45,8 +37,6 @@ https://1nyaler.streamhostingcdn.top/stream/8/index.m3u8
 #EXTINF:-1 ,DAZN 3 HD 
 https://1nyaler.streamhostingcdn.top/stream/8/index.m3u8
 
-#EXTINF:-1 ,Sky Sports Calcio 
-https://1nyaler.streamhostingcdn.top/stream/1/index.m3u8
 #EXTINF:-1 ,BeIN Sport 1 HD 
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 ,BeIN Sport 2 HD 
