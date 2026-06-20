@@ -50,8 +50,7 @@ http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 #EXTINF:-1 ,Sky Sports Cricket
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png" group-title="Sports",TSN 1
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6521/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/2508/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
@@ -77,8 +76,7 @@ https://1nyaler.streamhostingcdn.top/stream/35/index.m3u8
 #EXTINF:-1 ,Sport Tv 4
 https://1nyaler.streamhostingcdn.top/stream/36/index.m3u8
 
-#EXTINF:-1 ,Channel 5
-https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports 🇧🇩
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
@@ -86,6 +84,9 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
 #EXTINF:-1 ,T Sports HD
 http://starhub.pro/live/Anthony2/Anthony123/130714.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/TSN3_HD.svg" group-title="World_Cup",TSN 3
+https://himelhimuishere.pages.dev/fwc2k26.m3u8
 
 
 #EXTINF:-1 ,WIN plus 
