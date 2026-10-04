@@ -159,6 +159,37 @@ http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/2527/index.m3u8
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/2528/index.m3u8
 #EXTINF:-1, Sport tv 5
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/2529/index.m3u8
+#EXTINF:-1, Sony sports 1 
+http://103.151.60.162:2122/play/a01c/index.m3u8
+#EXTINF:-1, Sony sports 2
+http://103.151.60.162:2122/play/a01b/index.m3u8
+#EXTINF:-1, Sony sports 3
+http://103.151.60.162:2122/play/a01t/index.m3u8
+#EXTINF:-1, Sony sports 4
+http://103.151.60.162:2122/play/a021/index.m3u8
+#EXTINF:-1, Sony sports 5
+http://103.151.60.162:2122/play/a028/index.m3u8
+#EXTINF:-1,Unite8 sports 1
+http://103.151.60.162:2122/play/a0f8/index.m3u8
+#EXTINF:-1, Unite8 sports 2
+http://103.151.60.162:2122/play/a0f7/index.m3u8
+#EXTINF:-1, T sports 
+http://103.151.60.162:2122/play/a030/index.m3u8
+#EXTINF:-1, Star sports 
+http://103.151.60.162:2122/play/a00v/index.m3u8
+#EXTINF:-1, Star sports 
+http://103.151.60.162:2122/play/a01a/index.m3u8
+#EXTINF:-1, Star sports 
+http://103.151.60.162:2122/play/a019/index.m3u8
+#EXTINF:-1, Star sports 
+http://103.151.60.162:2122/play/a029/index.m3u8
+#EXTINF:-1, Star sports 
+http://103.151.60.162:2122/play/a026/index.m3u8
+#EXTINF:-1, Star sports 
+http://103.151.60.162:2122/play/a027/index.m3u8
+
+
+
 
 
 
