@@ -42,13 +42,26 @@ http://116.90.120.149:8000/play/a125/index.m3u8
 http://116.90.120.149:8000/play/a129/index.m3u8
 
 #EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Ten 1
-http://116.90.120.149:8000/play/a126/index.m3u8
+http://116.90.120.149:8000/play/a11t/index.m3u8
 
 #EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Ten 2
 http://116.90.120.149:8000/play/a137/index.m3u8
 
 #EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Ten 5
 http://116.90.120.149:8000/play/a117/index.m3u8
+
+#EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Geo Super
+http://116.90.120.149:8000/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Star Sports 1
+http://116.90.120.149:8000/play/a11x/index.m3u8
+
+#EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Star Sports 2
+http://116.90.120.149:8000/play/a120/index.m3u8
+
+
+
+
 
 
 
