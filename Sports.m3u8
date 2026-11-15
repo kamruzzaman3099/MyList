@@ -35,6 +35,15 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?o
 #EXTINF:-1 tvg-id="CanalPlusSportSK.sk@SD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/canal-plus-sport-sk-0d5ef8dd23.svg" tvg-country="SK" group-title="Backup" tvg-name="Canal+ Sport SK",Canal+ Sport SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
 
+#EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Unite Sports 1
+http://116.90.120.149:8000/play/a125/index.m3u8
+
+#EXTINF:-1 tvg-name="Unite Sports 2" group-title="SPORTS",Unite Sports 2
+http://116.90.120.149:8000/play/a129/index.m3u8
+
+#EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Ten 1
+http://116.90.120.149:8000/play/a126/index.m3u8
+
 
 
 
