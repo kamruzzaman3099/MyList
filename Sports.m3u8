@@ -3,13 +3,13 @@
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8
 
 #EXTINF:-1 tvg-id="t.sports" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJzpZAcltkRfl83OhkAi9zQDG3nYvrGYXBcNQVslMHGh9_mz0rc43oPBd&s=10" group-title="SLOW Sports",T Sports
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
+http://103.16.24.4:8083/14.m3u8
 
 #EXTINF:-1 tvg-name="Willow HD" group-title="SPORTS",Willow HD
-https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE
 https://cdn01.medialive.one:2096/GEOSUPERFHD/index.m3u8
@@ -35,29 +35,6 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?o
 #EXTINF:-1 tvg-id="CanalPlusSportSK.sk@SD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/canal-plus-sport-sk-0d5ef8dd23.svg" tvg-country="SK" group-title="Backup" tvg-name="Canal+ Sport SK",Canal+ Sport SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
 
-#EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Unite Sports 1
-http://116.90.120.149:8000/play/a125/index.m3u8
-
-#EXTINF:-1 tvg-name="Unite Sports 2" group-title="SPORTS",Unite Sports 2
-http://116.90.120.149:8000/play/a129/index.m3u8
-
-#EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Ten 1
-http://116.90.120.149:8000/play/a11t/index.m3u8
-
-#EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Ten 2
-http://116.90.120.149:8000/play/a137/index.m3u8
-
-#EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Ten 5
-http://116.90.120.149:8000/play/a117/index.m3u8
-
-#EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Geo Super
-http://116.90.120.149:8000/play/a021/index.m3u8
-
-#EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Star Sports 1
-http://116.90.120.149:8000/play/a11x/index.m3u8
-
-#EXTINF:-1 tvg-name="Unite Sports 1" group-title="SPORTS",Star Sports 2
-http://116.90.120.149:8000/play/a120/index.m3u8
 
 
 
